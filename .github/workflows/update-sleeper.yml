@@ -31,7 +31,6 @@ jobs:
 
           def get(path):
               url = BASE + path
-
               with urllib.request.urlopen(url, timeout=30) as response:
                   return json.load(response)
 
@@ -45,7 +44,6 @@ jobs:
 
           nfl_state = get("/state/nfl")
 
-          # Find the 2026 draft
           current_draft_summary = None
 
           for draft in drafts:
@@ -53,7 +51,6 @@ jobs:
                   current_draft_summary = draft
                   break
 
-          # Fall back to first draft if needed
           if current_draft_summary is None and drafts:
               current_draft_summary = drafts[0]
 
@@ -76,7 +73,6 @@ jobs:
                   f"/draft/{draft_id}/traded_picks"
               )
 
-          # Current NFL week
           current_week = nfl_state.get("week")
 
           current_week_matchups = []
@@ -119,10 +115,6 @@ jobs:
                   current_week_transactions
           }
 
-          #
-          # Only create a new GitHub commit when Sleeper
-          # data actually changes.
-          #
           old_payload = None
 
           if os.path.exists(OUTPUT):
@@ -155,7 +147,7 @@ jobs:
           print("Sleeper data updated.")
           PY
 
-            - name: Commit updated data
+      - name: Commit updated data
         run: |
           if [ -z "$(git status --porcelain)" ]; then
             echo "No changes to commit."
