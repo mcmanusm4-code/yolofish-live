@@ -155,9 +155,9 @@ jobs:
           print("Sleeper data updated.")
           PY
 
-      - name: Commit updated data
+            - name: Commit updated data
         run: |
-          if git diff --quiet; then
+          if [ -z "$(git status --porcelain)" ]; then
             echo "No changes to commit."
             exit 0
           fi
