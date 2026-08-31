@@ -1,0 +1,170 @@
+name: Update YOLOFISH Sleeper Data
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Pull Sleeper data
+        run: |
+          python <<'PY'
+          import json
+          import os
+          import urllib.request
+          from datetime import datetime, timezone
+
+          LEAGUE_ID = "1389708582278148096"
+          BASE = "https://api.sleeper.app/v1"
+          OUTPUT = "yolofish.json"
+
+          def get(path):
+              url = BASE + path
+
+              with urllib.request.urlopen(url, timeout=30) as response:
+                  return json.load(response)
+
+          league = get(f"/league/{LEAGUE_ID}")
+          users = get(f"/league/{LEAGUE_ID}/users")
+          rosters = get(f"/league/{LEAGUE_ID}/rosters")
+          drafts = get(f"/league/{LEAGUE_ID}/drafts")
+          league_traded_picks = get(
+              f"/league/{LEAGUE_ID}/traded_picks"
+          )
+
+          nfl_state = get("/state/nfl")
+
+          # Find the 2026 draft
+          current_draft_summary = None
+
+          for draft in drafts:
+              if str(draft.get("season")) == "2026":
+                  current_draft_summary = draft
+                  break
+
+          # Fall back to first draft if needed
+          if current_draft_summary is None and drafts:
+              current_draft_summary = drafts[0]
+
+          current_draft = None
+          draft_picks = []
+          draft_traded_picks = []
+
+          if current_draft_summary:
+              draft_id = current_draft_summary["draft_id"]
+
+              current_draft = get(
+                  f"/draft/{draft_id}"
+              )
+
+              draft_picks = get(
+                  f"/draft/{draft_id}/picks"
+              )
+
+              draft_traded_picks = get(
+                  f"/draft/{draft_id}/traded_picks"
+              )
+
+          # Current NFL week
+          current_week = nfl_state.get("week")
+
+          current_week_matchups = []
+          current_week_transactions = []
+
+          if current_week:
+              try:
+                  current_week_matchups = get(
+                      f"/league/{LEAGUE_ID}/matchups/{current_week}"
+                  )
+              except Exception:
+                  pass
+
+              try:
+                  current_week_transactions = get(
+                      f"/league/{LEAGUE_ID}/transactions/{current_week}"
+                  )
+              except Exception:
+                  pass
+
+          payload = {
+              "league_id": LEAGUE_ID,
+
+              "league": league,
+              "users": users,
+              "rosters": rosters,
+
+              "drafts": drafts,
+              "current_draft": current_draft,
+              "draft_picks": draft_picks,
+
+              "draft_traded_picks": draft_traded_picks,
+              "league_traded_picks": league_traded_picks,
+
+              "nfl_state": nfl_state,
+
+              "current_week": current_week,
+              "current_week_matchups": current_week_matchups,
+              "current_week_transactions":
+                  current_week_transactions
+          }
+
+          #
+          # Only create a new GitHub commit when Sleeper
+          # data actually changes.
+          #
+          old_payload = None
+
+          if os.path.exists(OUTPUT):
+              try:
+                  with open(OUTPUT, "r", encoding="utf-8") as f:
+                      old_payload = json.load(f)
+
+                  old_payload.pop("_meta", None)
+
+              except Exception:
+                  old_payload = None
+
+          if old_payload == payload:
+              print("No Sleeper changes detected.")
+              raise SystemExit(0)
+
+          payload["_meta"] = {
+              "last_changed":
+                  datetime.now(timezone.utc).isoformat()
+          }
+
+          with open(OUTPUT, "w", encoding="utf-8") as f:
+              json.dump(
+                  payload,
+                  f,
+                  indent=2,
+                  sort_keys=True
+              )
+
+          print("Sleeper data updated.")
+          PY
+
+      - name: Commit updated data
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "YOLOFISH Bot"
+          git config user.email "actions@github.com"
+
+          git add yolofish.json
+          git commit -m "Update Sleeper data"
+          git push
