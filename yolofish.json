@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-01T12:43:14.314968+00:00"
+    "last_changed": "2026-09-01T13:19:36.834912+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -1195,7 +1195,14 @@
     },
     {
       "co_owners": null,
-      "keepers": null,
+      "keepers": [
+        "10229",
+        "12508",
+        "5927",
+        "7567",
+        "8130",
+        "NE"
+      ],
       "league_id": "1389708582278148096",
       "metadata": {
         "p_nick_10229": "Dale Earnhardt ",
