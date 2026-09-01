@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-01T01:18:45.491871+00:00"
+    "last_changed": "2026-09-01T01:33:11.791651+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -1254,7 +1254,11 @@
     },
     {
       "co_owners": null,
-      "keepers": null,
+      "keepers": [
+        "11631",
+        "12506",
+        "4017"
+      ],
       "league_id": "1389708582278148096",
       "metadata": {
         "p_nick_1234": "I am the fluffer",
@@ -1325,11 +1329,9 @@
       "co_owners": null,
       "keepers": [
         "11584",
-        "11620",
-        "5870",
         "6819",
         "7588",
-        "8137"
+        "9500"
       ],
       "league_id": "1389708582278148096",
       "metadata": null,
