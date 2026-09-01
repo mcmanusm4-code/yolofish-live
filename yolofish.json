@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-08-31T18:51:54.467004+00:00"
+    "last_changed": "2026-09-01T01:18:45.491871+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -79,6 +79,75 @@
   "current_week": 1,
   "current_week_matchups": [],
   "current_week_transactions": [
+    {
+      "adds": null,
+      "consenter_ids": [
+        7
+      ],
+      "created": 1788225276086,
+      "creator": "470323699870855168",
+      "draft_picks": [],
+      "drops": {
+        "CLE": 7
+      },
+      "leg": 1,
+      "metadata": null,
+      "roster_ids": [
+        7
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1788225276086,
+      "transaction_id": "1400321938173222912",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": null,
+      "consenter_ids": [
+        7
+      ],
+      "created": 1788225264019,
+      "creator": "470323699870855168",
+      "draft_picks": [],
+      "drops": {
+        "12476": 7
+      },
+      "leg": 1,
+      "metadata": null,
+      "roster_ids": [
+        7
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1788225264019,
+      "transaction_id": "1400321887564738560",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": null,
+      "consenter_ids": [
+        7
+      ],
+      "created": 1788225098770,
+      "creator": "470323699870855168",
+      "draft_picks": [],
+      "drops": {
+        "8160": 7
+      },
+      "leg": 1,
+      "metadata": null,
+      "roster_ids": [
+        7
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1788225098770,
+      "transaction_id": "1400321194456068096",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": null,
       "consenter_ids": [
@@ -533,9 +602,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1400178671196639232",
+    "last_message_id": "1400321938269736960",
     "last_message_text_map": null,
-    "last_message_time": 1788191118577,
+    "last_message_time": 1788225276109,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -1004,7 +1073,11 @@
     },
     {
       "co_owners": null,
-      "keepers": null,
+      "keepers": [
+        "421",
+        "7547",
+        "8138"
+      ],
       "league_id": "1389708582278148096",
       "metadata": {
         "allow_pn_inactive_starters": "off",
@@ -1250,7 +1323,14 @@
     },
     {
       "co_owners": null,
-      "keepers": null,
+      "keepers": [
+        "11584",
+        "11620",
+        "5870",
+        "6819",
+        "7588",
+        "8137"
+      ],
       "league_id": "1389708582278148096",
       "metadata": null,
       "owner_id": "470323699870855168",
@@ -1260,7 +1340,6 @@
         "11584",
         "11620",
         "11646",
-        "12476",
         "12501",
         "2505",
         "3294",
@@ -1270,11 +1349,9 @@
         "6819",
         "7588",
         "8137",
-        "8160",
         "9480",
         "9500",
-        "9997",
-        "CLE"
+        "9997"
       ],
       "reserve": null,
       "roster_id": 7,
@@ -1290,16 +1367,16 @@
       },
       "starters": [
         "3294",
-        "8160",
+        "0",
         "7588",
         "6813",
         "8137",
         "6819",
         "9480",
         "11584",
-        "12476",
+        "0",
         "3678",
-        "CLE"
+        "0"
       ],
       "taxi": null
     },
