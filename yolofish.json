@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-01T17:09:57.657987+00:00"
+    "last_changed": "2026-09-01T20:03:57.343170+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -602,9 +602,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1400321938269736960",
+    "last_message_id": "1400605527938965504",
     "last_message_text_map": null,
-    "last_message_time": 1788225276109,
+    "last_message_time": 1788292889154,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
