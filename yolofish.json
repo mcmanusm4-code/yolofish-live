@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-01T23:50:25.072513+00:00"
+    "last_changed": "2026-09-02T00:34:33.277169+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -22,9 +22,9 @@
       "471426290298122240": 12,
       "872279829003878400": 1
     },
-    "last_message_id": "1389708582278148097",
-    "last_message_time": 1785694854853,
-    "last_picked": 1788306459671,
+    "last_message_id": "1400674231204708352",
+    "last_message_time": 1788309269290,
+    "last_picked": 1788309269279,
     "league_id": "1389708582278148096",
     "metadata": {
       "description": "",
@@ -72,8 +72,8 @@
       "9": 5
     },
     "sport": "nfl",
-    "start_time": 1788309014000,
-    "status": "pre_draft",
+    "start_time": 1788309139434,
+    "status": "drafting",
     "type": "snake"
   },
   "current_week": 1,
@@ -191,6 +191,46 @@
     {
       "adds": null,
       "consenter_ids": [
+        1,
+        5
+      ],
+      "created": 1788191033674,
+      "creator": "470261764949274624",
+      "draft_picks": [
+        {
+          "league_id": null,
+          "owner_id": 5,
+          "previous_owner_id": 1,
+          "roster_id": 1,
+          "round": 8,
+          "season": "2026"
+        },
+        {
+          "league_id": null,
+          "owner_id": 1,
+          "previous_owner_id": 5,
+          "roster_id": 5,
+          "round": 7,
+          "season": "2026"
+        }
+      ],
+      "drops": null,
+      "leg": 1,
+      "metadata": null,
+      "roster_ids": [
+        1,
+        5
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1788308084357,
+      "transaction_id": "1400178315087593472",
+      "type": "trade",
+      "waiver_budget": []
+    },
+    {
+      "adds": null,
+      "consenter_ids": [
         5
       ],
       "created": 1788190964356,
@@ -276,6 +316,188 @@
     }
   ],
   "draft_picks": [
+    {
+      "draft_id": "1389708582278148097",
+      "draft_slot": 1,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Josh",
+        "injury_status": "",
+        "last_name": "Allen",
+        "news_updated": "1787676047663",
+        "number": "17",
+        "player_id": "4984",
+        "position": "QB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "BUF",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "8"
+      },
+      "pick_no": 1,
+      "picked_by": "872279829003878400",
+      "player_id": "4984",
+      "reactions": null,
+      "roster_id": 3,
+      "round": 1
+    },
+    {
+      "draft_id": "1389708582278148097",
+      "draft_slot": 2,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Jahmyr",
+        "injury_status": "",
+        "last_name": "Gibbs",
+        "news_updated": "1788190811400",
+        "number": "0",
+        "player_id": "9221",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "DET",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "3"
+      },
+      "pick_no": 2,
+      "picked_by": "470266618262319104",
+      "player_id": "9221",
+      "reactions": null,
+      "roster_id": 6,
+      "round": 1
+    },
+    {
+      "draft_id": "1389708582278148097",
+      "draft_slot": 3,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Bijan",
+        "injury_status": "",
+        "last_name": "Robinson",
+        "news_updated": "1787794258583",
+        "number": "7",
+        "player_id": "9509",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "ATL",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "3"
+      },
+      "pick_no": 3,
+      "picked_by": "470049364996255744",
+      "player_id": "9509",
+      "reactions": null,
+      "roster_id": 4,
+      "round": 1
+    },
+    {
+      "draft_id": "1389708582278148097",
+      "draft_slot": 4,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Ja'Marr",
+        "injury_status": "Questionable",
+        "last_name": "Chase",
+        "news_updated": "1788297321662",
+        "number": "1",
+        "player_id": "7564",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "CIN",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "5"
+      },
+      "pick_no": 4,
+      "picked_by": "470383582162972672",
+      "player_id": "7564",
+      "reactions": null,
+      "roster_id": 8,
+      "round": 1
+    },
+    {
+      "draft_id": "1389708582278148097",
+      "draft_slot": 5,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Lamar",
+        "injury_status": "",
+        "last_name": "Jackson",
+        "news_updated": "1788281720328",
+        "number": "8",
+        "player_id": "4881",
+        "position": "QB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "BAL",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "8"
+      },
+      "pick_no": 5,
+      "picked_by": "470648207311892480",
+      "player_id": "4881",
+      "reactions": null,
+      "roster_id": 12,
+      "round": 1
+    },
+    {
+      "draft_id": "1389708582278148097",
+      "draft_slot": 6,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "CeeDee",
+        "injury_status": "",
+        "last_name": "Lamb",
+        "news_updated": "1788301822078",
+        "number": "88",
+        "player_id": "6786",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "DAL",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "6"
+      },
+      "pick_no": 6,
+      "picked_by": "470008306950205440",
+      "player_id": "6786",
+      "reactions": null,
+      "roster_id": 2,
+      "round": 1
+    },
+    {
+      "draft_id": "1389708582278148097",
+      "draft_slot": 7,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Christian",
+        "injury_status": "Questionable",
+        "last_name": "McCaffrey",
+        "news_updated": "1788297921683",
+        "number": "23",
+        "player_id": "4034",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "SF",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "9"
+      },
+      "pick_no": 7,
+      "picked_by": "470383582162972672",
+      "player_id": "4034",
+      "reactions": null,
+      "roster_id": 8,
+      "round": 1
+    },
     {
       "draft_id": "1389708582278148097",
       "draft_slot": 7,
@@ -508,6 +730,32 @@
       "player_id": "5849",
       "reactions": null,
       "roster_id": 2,
+      "round": 5
+    },
+    {
+      "draft_id": "1389708582278148097",
+      "draft_slot": 7,
+      "is_keeper": true,
+      "metadata": {
+        "first_name": "Sam",
+        "injury_status": "",
+        "last_name": "Darnold",
+        "news_updated": "1787718342861",
+        "number": "14",
+        "player_id": "4943",
+        "position": "QB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "SEA",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "8"
+      },
+      "pick_no": 55,
+      "picked_by": "470384580994527232",
+      "player_id": "4943",
+      "reactions": null,
+      "roster_id": 9,
       "round": 5
     },
     {
@@ -746,7 +994,7 @@
     },
     {
       "draft_id": "1389708582278148097",
-      "draft_slot": 9,
+      "draft_slot": 11,
       "is_keeper": true,
       "metadata": {
         "first_name": "Rashee",
@@ -763,12 +1011,12 @@
         "team_changed_at": "",
         "years_exp": "3"
       },
-      "pick_no": 81,
+      "pick_no": 86,
       "picked_by": "470261764949274624",
       "player_id": "10229",
       "reactions": null,
       "roster_id": 5,
-      "round": 7
+      "round": 8
     },
     {
       "draft_id": "1389708582278148097",
@@ -1801,6 +2049,13 @@
       "season": "2026"
     },
     {
+      "owner_id": 5,
+      "previous_owner_id": 1,
+      "roster_id": 1,
+      "round": 8,
+      "season": "2026"
+    },
+    {
       "owner_id": 11,
       "previous_owner_id": 4,
       "roster_id": 4,
@@ -1833,6 +2088,13 @@
       "previous_owner_id": 5,
       "roster_id": 5,
       "round": 2,
+      "season": "2026"
+    },
+    {
+      "owner_id": 1,
+      "previous_owner_id": 5,
+      "roster_id": 5,
+      "round": 7,
       "season": "2026"
     },
     {
@@ -1948,9 +2210,9 @@
         "471426290298122240": 12,
         "872279829003878400": 1
       },
-      "last_message_id": "1389708582278148097",
-      "last_message_time": 1785694854853,
-      "last_picked": 1788306459671,
+      "last_message_id": "1400674231204708352",
+      "last_message_time": 1788309269290,
+      "last_picked": 1788309269279,
       "league_id": "1389708582278148096",
       "metadata": {
         "description": "",
@@ -1984,8 +2246,8 @@
         "teams": 12
       },
       "sport": "nfl",
-      "start_time": 1788309014000,
-      "status": "pre_draft",
+      "start_time": 1788309139434,
+      "status": "drafting",
       "type": "snake"
     }
   ],
@@ -1997,13 +2259,13 @@
     "draft_id": "1389708582278148097",
     "group_id": null,
     "last_author_avatar": null,
-    "last_author_display_name": "ccoyle0392",
-    "last_author_id": "470049364996255744",
-    "last_author_is_bot": false,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1400660026623795200",
+    "last_message_id": "1400669261285883904",
     "last_message_text_map": null,
-    "last_message_time": 1788305882654,
+    "last_message_time": 1788308084369,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -2011,7 +2273,7 @@
     "loser_bracket_overrides_id": null,
     "metadata": {
       "auto_continue": "on",
-      "current_pick_no": "1",
+      "current_pick_no": "8",
       "division_1": "Aubry Babcock",
       "division_1_avatar": "https://sleepercdn.com/uploads/bd729a796b5dd38ea682f5942b9dd80c.jpg",
       "division_2": "Alanna Pow",
@@ -2021,7 +2283,7 @@
       "division_4": "Jess Cromwell",
       "division_4_avatar": "https://sleepercdn.com/uploads/6549b7037f43435c205fb3aaa9e78d08.jpg",
       "keeper_deadline": "0",
-      "on_the_clock_user_id": "872279829003878400"
+      "on_the_clock_user_id": "470405149974589440"
     },
     "name": "YOLOFISH Fantasy Football League",
     "previous_league_id": "1257467561709150208",
@@ -2167,7 +2429,7 @@
     },
     "shard": 40,
     "sport": "nfl",
-    "status": "pre_draft",
+    "status": "drafting",
     "total_rosters": 12
   },
   "league_id": "1389708582278148096",
@@ -2184,6 +2446,13 @@
       "previous_owner_id": 8,
       "roster_id": 1,
       "round": 5,
+      "season": "2026"
+    },
+    {
+      "owner_id": 5,
+      "previous_owner_id": 1,
+      "roster_id": 1,
+      "round": 8,
       "season": "2026"
     },
     {
@@ -2219,6 +2488,13 @@
       "previous_owner_id": 5,
       "roster_id": 5,
       "round": 2,
+      "season": "2026"
+    },
+    {
+      "owner_id": 1,
+      "previous_owner_id": 5,
+      "roster_id": 5,
+      "round": 7,
       "season": "2026"
     },
     {
@@ -2875,6 +3151,7 @@
         "10232",
         "12517",
         "12534",
+        "4943",
         "6794",
         "6904"
       ],
