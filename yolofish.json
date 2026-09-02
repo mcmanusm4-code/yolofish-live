@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-02T15:49:30.751605+00:00"
+    "last_changed": "2026-09-02T16:03:47.792971+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -836,7 +836,7 @@
         "5872",
         "13298",
         "4227",
-        "0"
+        "LV"
       ],
       "starters_points": [
         0.0,
@@ -7154,9 +7154,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1400900607384035328",
+    "last_message_id": "1400904531067314176",
     "last_message_text_map": null,
-    "last_message_time": 1788363241576,
+    "last_message_time": 1788364177057,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -8161,7 +8161,7 @@
         "5872",
         "13298",
         "4227",
-        "0"
+        "LV"
       ],
       "taxi": null
     },
