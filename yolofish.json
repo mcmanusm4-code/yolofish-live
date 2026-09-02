@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-02T02:04:12.154579+00:00"
+    "last_changed": "2026-09-02T02:35:56.410135+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -80,7 +80,7 @@
   "current_week_matchups": [
     {
       "custom_points": null,
-      "matchup_id": 3,
+      "matchup_id": 4,
       "players": [
         "10222",
         "11566",
@@ -148,7 +148,7 @@
     },
     {
       "custom_points": null,
-      "matchup_id": 3,
+      "matchup_id": 5,
       "players": [
         "11576",
         "11586",
@@ -288,7 +288,7 @@
     },
     {
       "custom_points": null,
-      "matchup_id": 6,
+      "matchup_id": 1,
       "players": [
         "11604",
         "11786",
@@ -360,7 +360,7 @@
     },
     {
       "custom_points": null,
-      "matchup_id": 1,
+      "matchup_id": 2,
       "players": [
         "10229",
         "11620",
@@ -428,7 +428,7 @@
     },
     {
       "custom_points": null,
-      "matchup_id": 4,
+      "matchup_id": 6,
       "players": [
         "11560",
         "11631",
@@ -500,7 +500,7 @@
     },
     {
       "custom_points": null,
-      "matchup_id": 5,
+      "matchup_id": 2,
       "players": [
         "11584",
         "11646",
@@ -541,7 +541,7 @@
       "roster_id": 7,
       "starters": [
         "6797",
-        "12522",
+        "8161",
         "7588",
         "11584",
         "5859",
@@ -568,7 +568,7 @@
     },
     {
       "custom_points": null,
-      "matchup_id": 1,
+      "matchup_id": 3,
       "players": [
         "11559",
         "12490",
@@ -642,7 +642,7 @@
     },
     {
       "custom_points": null,
-      "matchup_id": 4,
+      "matchup_id": 6,
       "players": [
         "10232",
         "10236",
@@ -708,7 +708,7 @@
     },
     {
       "custom_points": null,
-      "matchup_id": 6,
+      "matchup_id": 1,
       "players": [
         "11564",
         "11628",
@@ -778,7 +778,7 @@
     },
     {
       "custom_points": null,
-      "matchup_id": 2,
+      "matchup_id": 3,
       "players": [
         "11563",
         "11635",
@@ -844,7 +844,7 @@
     },
     {
       "custom_points": null,
-      "matchup_id": 2,
+      "matchup_id": 4,
       "players": [
         "11610",
         "11624",
@@ -6802,9 +6802,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1400695140477075456",
+    "last_message_id": "1400699893143609344",
     "last_message_text_map": null,
-    "last_message_time": 1788314254448,
+    "last_message_time": 1788315387573,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7574,7 +7574,7 @@
       },
       "starters": [
         "6797",
-        "12522",
+        "8161",
         "7588",
         "11584",
         "5859",
