@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-02T10:29:01.895520+00:00"
+    "last_changed": "2026-09-02T14:49:17.797900+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -856,6 +856,7 @@
         "11624",
         "11643",
         "13305",
+        "1945",
         "4046",
         "4199",
         "4881",
@@ -865,15 +866,16 @@
         "7002",
         "7543",
         "8134",
-        "9225",
         "9488",
-        "9504"
+        "9504",
+        "LAC"
       ],
       "players_points": {
         "11610": 0.0,
         "11624": 0.0,
         "11643": 0.0,
         "13305": 0.0,
+        "1945": 0.0,
         "4046": 0.0,
         "4199": 0.0,
         "4881": 0.0,
@@ -883,9 +885,9 @@
         "7002": 0.0,
         "7543": 0.0,
         "8134": 0.0,
-        "9225": 0.0,
         "9488": 0.0,
-        "9504": 0.0
+        "9504": 0.0,
+        "LAC": 0.0
       },
       "points": 0.0,
       "roster_id": 12,
@@ -899,8 +901,8 @@
         "7002",
         "5846",
         "8134",
-        "0",
-        "0"
+        "1945",
+        "LAC"
       ],
       "starters_points": [
         0.0,
@@ -918,6 +920,54 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "1945": 12
+      },
+      "consenter_ids": [
+        12
+      ],
+      "created": 1788360060843,
+      "creator": "470648207311892480",
+      "draft_picks": [],
+      "drops": {
+        "9225": 12
+      },
+      "leg": 1,
+      "metadata": null,
+      "roster_ids": [
+        12
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1788360060843,
+      "transaction_id": "1400887266422874112",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "LAC": 12
+      },
+      "consenter_ids": [
+        12
+      ],
+      "created": 1788360028841,
+      "creator": "470648207311892480",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 1,
+      "metadata": null,
+      "roster_ids": [
+        12
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1788360028841,
+      "transaction_id": "1400887132196732928",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": null,
       "consenter_ids": [
@@ -7054,9 +7104,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1400822738532212736",
+    "last_message_id": "1400887266527690752",
     "last_message_text_map": null,
-    "last_message_time": 1788344676196,
+    "last_message_time": 1788360060869,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -8096,6 +8146,7 @@
         "11624",
         "11643",
         "13305",
+        "1945",
         "4046",
         "4199",
         "4881",
@@ -8105,9 +8156,9 @@
         "7002",
         "7543",
         "8134",
-        "9225",
         "9488",
-        "9504"
+        "9504",
+        "LAC"
       ],
       "reserve": null,
       "roster_id": 12,
@@ -8132,8 +8183,8 @@
         "7002",
         "5846",
         "8134",
-        "0",
-        "0"
+        "1945",
+        "LAC"
       ],
       "taxi": null
     }
