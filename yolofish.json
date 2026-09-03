@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-03T01:03:44.036951+00:00"
+    "last_changed": "2026-09-03T07:09:01.162029+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -7332,7 +7332,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 1024,
       "daily_waivers_hour": 0,
-      "daily_waivers_last_ran": 2,
+      "daily_waivers_last_ran": 3,
       "disable_adds": 0,
       "disable_trades": 0,
       "divisions": 4,
