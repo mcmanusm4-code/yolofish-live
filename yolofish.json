@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-04T07:18:18.545008+00:00"
+    "last_changed": "2026-09-04T22:30:41.858422+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -7232,7 +7232,8 @@
       "division_3_avatar": "https://sleepercdn.com/uploads/30701898a88bb178c1f9ad1ec4995b17.jpg",
       "division_4": "Jess Cromwell",
       "division_4_avatar": "https://sleepercdn.com/uploads/6549b7037f43435c205fb3aaa9e78d08.jpg",
-      "keeper_deadline": "0"
+      "keeper_deadline": "0",
+      "latest_league_winner_roster_id": "11"
     },
     "name": "YOLOFISH Fantasy Football League",
     "previous_league_id": "1257467561709150208",
