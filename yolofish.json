@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-04T22:30:41.858422+00:00"
+    "last_changed": "2026-09-05T06:20:44.170407+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -94,6 +94,8 @@
         "3214",
         "4866",
         "6768",
+        "6794",
+        "6904",
         "8136",
         "8167",
         "9224",
@@ -112,6 +114,8 @@
         "3214": 0.0,
         "4866": 0.0,
         "6768": 0.0,
+        "6794": 0.0,
+        "6904": 0.0,
         "8136": 0.0,
         "8167": 0.0,
         "9224": 0.0,
@@ -660,8 +664,6 @@
         "12534",
         "2449",
         "4943",
-        "6794",
-        "6904",
         "8408",
         "9508",
         "PIT"
@@ -679,8 +681,6 @@
         "12534": 0.0,
         "2449": 0.0,
         "4943": 0.0,
-        "6794": 0.0,
-        "6904": 0.0,
         "8408": 0.0,
         "9508": 0.0,
         "PIT": 0.0
@@ -688,11 +688,11 @@
       "points": 0.0,
       "roster_id": 9,
       "starters": [
-        "6904",
+        "0",
         "4943",
         "12529",
         "12512",
-        "6794",
+        "0",
         "10232",
         "12517",
         "8408",
@@ -1000,6 +1000,54 @@
       "status_updated": 1788363213187,
       "transaction_id": "1400900488311906304",
       "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "6794": 1,
+        "6904": 1
+      },
+      "consenter_ids": [
+        1,
+        9
+      ],
+      "created": 1788363084454,
+      "creator": "470384580994527232",
+      "draft_picks": [
+        {
+          "league_id": null,
+          "owner_id": 9,
+          "previous_owner_id": 1,
+          "roster_id": 1,
+          "round": 1,
+          "season": "2027"
+        },
+        {
+          "league_id": null,
+          "owner_id": 9,
+          "previous_owner_id": 1,
+          "roster_id": 1,
+          "round": 2,
+          "season": "2027"
+        }
+      ],
+      "drops": {
+        "6794": 9,
+        "6904": 9
+      },
+      "leg": 1,
+      "metadata": {
+        "notes": "Your trade was processed successfully!"
+      },
+      "roster_ids": [
+        1,
+        9
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1788588747925,
+      "transaction_id": "1400899948366553088",
+      "type": "trade",
       "waiver_budget": []
     },
     {
@@ -7214,9 +7262,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1401041974152175616",
+    "last_message_id": "1401846449704038400",
     "last_message_text_map": null,
-    "last_message_time": 1788396946041,
+    "last_message_time": 1788588747958,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7404,6 +7452,20 @@
       "roster_id": 1,
       "round": 8,
       "season": "2026"
+    },
+    {
+      "owner_id": 9,
+      "previous_owner_id": 1,
+      "roster_id": 1,
+      "round": 1,
+      "season": "2027"
+    },
+    {
+      "owner_id": 9,
+      "previous_owner_id": 1,
+      "roster_id": 1,
+      "round": 2,
+      "season": "2027"
     },
     {
       "owner_id": 11,
@@ -7598,6 +7660,8 @@
         "3214",
         "4866",
         "6768",
+        "6794",
+        "6904",
         "8136",
         "8167",
         "9224",
@@ -8083,8 +8147,6 @@
         "12534",
         "2449",
         "4943",
-        "6794",
-        "6904",
         "8408",
         "9508",
         "PIT"
@@ -8103,11 +8165,11 @@
         "wins": 0
       },
       "starters": [
-        "6904",
+        "0",
         "4943",
         "12529",
         "12512",
-        "6794",
+        "0",
         "10232",
         "12517",
         "8408",
