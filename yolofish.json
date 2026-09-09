@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-09T01:06:25.642223+00:00"
+    "last_changed": "2026-09-09T01:25:43.663025+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -8396,6 +8396,7 @@
         "allow_sms": "on",
         "avatar": "https://sleepercdn.com/uploads/f240ceb2608858d2253c68d6588d6d07",
         "join_voice_pn": "on",
+        "league_report_pn": "on",
         "mascot_item_type_id_leg_10": "trash",
         "mascot_item_type_id_leg_11": "trash",
         "mascot_item_type_id_leg_12": "trash",
@@ -8417,11 +8418,11 @@
         "mascot_message_emotion_leg_2": "idle",
         "mention_pn": "on",
         "player_like_pn": "on",
-        "player_nickname_update": "off",
+        "player_nickname_update": "on",
         "team_name": "YOLOFISH COMMISH",
-        "team_name_update": "off",
+        "team_name_update": "on",
         "trade_block_pn": "on",
-        "transaction_commissioner": "off",
+        "transaction_commissioner": "on",
         "transaction_free_agent": "on",
         "transaction_trade": "on",
         "transaction_waiver": "on",
