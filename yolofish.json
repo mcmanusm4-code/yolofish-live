@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-10T07:18:35.619518+00:00"
+    "last_changed": "2026-09-10T11:07:33.633772+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -367,7 +367,6 @@
         "12508",
         "13274",
         "13287",
-        "13413",
         "13417",
         "3257",
         "5927",
@@ -376,6 +375,7 @@
         "7839",
         "8121",
         "8130",
+        "8136",
         "8155",
         "9502",
         "9758",
@@ -387,7 +387,6 @@
         "12508": 0.0,
         "13274": 0.0,
         "13287": 0.0,
-        "13413": 0.0,
         "13417": 0.0,
         "3257": 0.0,
         "5927": 0.0,
@@ -396,6 +395,7 @@
         "7839": 0.0,
         "8121": 0.0,
         "8130": 0.0,
+        "8136": 0.0,
         "8155": 0.0,
         "9502": 0.0,
         "9758": 0.0,
@@ -949,6 +949,36 @@
       "status_updated": 1789010905315,
       "transaction_id": "1403617105991028736",
       "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "8136": 5
+      },
+      "consenter_ids": [
+        5
+      ],
+      "created": 1788971753835,
+      "creator": "470261764949274624",
+      "draft_picks": [],
+      "drops": {
+        "13413": 5
+      },
+      "leg": 1,
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "roster_ids": [
+        5
+      ],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 6
+      },
+      "status": "complete",
+      "status_updated": 1789038386670,
+      "transaction_id": "1403452892781813760",
+      "type": "waiver",
       "waiver_budget": []
     },
     {
@@ -7469,9 +7499,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1403617106104274944",
+    "last_message_id": "1403732371324338176",
     "last_message_text_map": null,
-    "last_message_time": 1789010905341,
+    "last_message_time": 1789038386711,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -8104,7 +8134,6 @@
         "12508",
         "13274",
         "13287",
-        "13413",
         "13417",
         "3257",
         "5927",
@@ -8113,6 +8142,7 @@
         "7839",
         "8121",
         "8130",
+        "8136",
         "8155",
         "9502",
         "9758",
@@ -8129,7 +8159,7 @@
         "losses": 0,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 0,
+        "waiver_budget_used": 6,
         "waiver_position": 12,
         "wins": 0
       },
