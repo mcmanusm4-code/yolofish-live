@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-16T07:09:08.912127+00:00"
+    "last_changed": "2026-09-16T09:17:51.243751+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -663,6 +663,7 @@
         "12530",
         "12534",
         "2449",
+        "3161",
         "4177",
         "4943",
         "8408",
@@ -681,6 +682,7 @@
         "12530": 0.0,
         "12534": 0.0,
         "2449": 0.0,
+        "3161": 0.0,
         "4177": 0.0,
         "4943": 0.0,
         "8408": 0.0,
@@ -691,7 +693,7 @@
       "roster_id": 9,
       "starters": [
         "1166",
-        "0",
+        "3161",
         "8408",
         "12512",
         "2449",
@@ -912,7 +914,7 @@
         "5846",
         "8134",
         "1945",
-        "0"
+        "SF"
       ],
       "starters_points": [
         0.0,
@@ -929,7 +931,31 @@
       ]
     }
   ],
-  "current_week_transactions": [],
+  "current_week_transactions": [
+    {
+      "adds": {
+        "3161": 9
+      },
+      "consenter_ids": [
+        9
+      ],
+      "created": 1789550223848,
+      "creator": "470384580994527232",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 2,
+      "metadata": null,
+      "roster_ids": [
+        9
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1789550223848,
+      "transaction_id": "1405879171871264768",
+      "type": "free_agent",
+      "waiver_budget": []
+    }
+  ],
   "draft_picks": [
     {
       "draft_id": "1389708582278148097",
@@ -6492,9 +6518,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1405846399911817216",
+    "last_message_id": "1405879171963518976",
     "last_message_text_map": null,
-    "last_message_time": 1789542410403,
+    "last_message_time": 1789550223869,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7436,16 +7462,14 @@
         "12530",
         "12534",
         "2449",
+        "3161",
         "4177",
         "4943",
         "8408",
         "9508",
         "PIT"
       ],
-      "reserve": [
-        "12529",
-        "4943"
-      ],
+      "reserve": null,
       "roster_id": 9,
       "settings": {
         "division": 4,
@@ -7464,7 +7488,7 @@
       },
       "starters": [
         "1166",
-        "0",
+        "3161",
         "8408",
         "12512",
         "2449",
@@ -7677,7 +7701,7 @@
         "5846",
         "8134",
         "1945",
-        "0"
+        "SF"
       ],
       "taxi": null
     }
