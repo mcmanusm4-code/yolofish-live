@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-18T17:17:28.452445+00:00"
+    "last_changed": "2026-09-18T19:59:09.788310+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -871,7 +871,6 @@
       "matchup_id": 4,
       "players": [
         "11624",
-        "13337",
         "13347",
         "1945",
         "4046",
@@ -885,12 +884,12 @@
         "7571",
         "8134",
         "9488",
+        "9504",
         "9757",
         "SF"
       ],
       "players_points": {
         "11624": 0.0,
-        "13337": 0.0,
         "13347": 0.0,
         "1945": 0.0,
         "4046": 0.0,
@@ -904,6 +903,7 @@
         "7571": 0.0,
         "8134": 5.74,
         "9488": 0.0,
+        "9504": 0.0,
         "9757": 0.0,
         "SF": 0.0
       },
@@ -938,6 +938,31 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "9504": 12
+      },
+      "consenter_ids": [
+        12
+      ],
+      "created": 1789761510586,
+      "creator": "470648207311892480",
+      "draft_picks": [],
+      "drops": {
+        "13337": 12
+      },
+      "leg": 2,
+      "metadata": null,
+      "roster_ids": [
+        12
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1789761510586,
+      "transaction_id": "1406765372685737984",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "9486": 7
@@ -6764,9 +6789,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1406526455411646464",
+    "last_message_id": "1406765372824150016",
     "last_message_text_map": null,
-    "last_message_time": 1789704548269,
+    "last_message_time": 1789761510620,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7908,7 +7933,6 @@
       "player_map": null,
       "players": [
         "11624",
-        "13337",
         "13347",
         "1945",
         "4046",
@@ -7922,6 +7946,7 @@
         "7571",
         "8134",
         "9488",
+        "9504",
         "9757",
         "SF"
       ],
