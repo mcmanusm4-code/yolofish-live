@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-19T07:20:57.907950+00:00"
+    "last_changed": "2026-09-19T12:16:32.639838+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -743,6 +743,7 @@
         "8131",
         "8144",
         "8150",
+        "9482",
         "9511",
         "KC"
       ],
@@ -762,6 +763,7 @@
         "8131": 0.0,
         "8144": 0.0,
         "8150": 0.0,
+        "9482": 0.0,
         "9511": 0.0,
         "KC": 0.0
       },
@@ -776,7 +778,7 @@
         "8144",
         "8131",
         "4037",
-        "11628",
+        "9482",
         "2747",
         "KC"
       ],
@@ -938,6 +940,29 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "9482": 10
+      },
+      "consenter_ids": [
+        10
+      ],
+      "created": 1789819908446,
+      "creator": "470405149974589440",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 2,
+      "metadata": null,
+      "roster_ids": [
+        10
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1789819908446,
+      "transaction_id": "1407010311063539712",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "9504": 12
@@ -6789,9 +6814,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1406765372824150016",
+    "last_message_id": "1407010311180926976",
     "last_message_text_map": null,
-    "last_message_time": 1789761510620,
+    "last_message_time": 1789819908475,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7804,10 +7829,13 @@
         "8131",
         "8144",
         "8150",
+        "9482",
         "9511",
         "KC"
       ],
-      "reserve": null,
+      "reserve": [
+        "7569"
+      ],
       "roster_id": 10,
       "settings": {
         "division": 3,
@@ -7833,7 +7861,7 @@
         "8144",
         "8131",
         "4037",
-        "11628",
+        "9482",
         "2747",
         "KC"
       ],
