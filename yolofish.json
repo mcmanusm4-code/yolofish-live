@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-19T22:55:20.214261+00:00"
+    "last_changed": "2026-09-19T23:27:30.085885+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -338,7 +338,7 @@
         "3198",
         "8112",
         "6801",
-        "11604",
+        "5022",
         "12507",
         "7611",
         "11786",
@@ -510,6 +510,7 @@
       "custom_points": null,
       "matchup_id": 1,
       "players": [
+        "11370",
         "11539",
         "11584",
         "11646",
@@ -530,6 +531,7 @@
         "JAX"
       ],
       "players_points": {
+        "11370": 0.0,
         "11539": 7.0,
         "11584": 0.0,
         "11646": 0.0,
@@ -559,7 +561,7 @@
         "11646",
         "9500",
         "5012",
-        "8132",
+        "9486",
         "9756",
         "11539",
         "JAX"
@@ -940,6 +942,29 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "11370": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "created": 1789860009545,
+      "creator": "470323699870855168",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 2,
+      "metadata": null,
+      "roster_ids": [
+        7
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1789860009545,
+      "transaction_id": "1407178507263418368",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "5001": 6
@@ -6839,9 +6864,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1407025965388808192",
+    "last_message_id": "1407178507376709632",
     "last_message_text_map": null,
-    "last_message_time": 1789823640728,
+    "last_message_time": 1789860009572,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7474,7 +7499,7 @@
         "3198",
         "8112",
         "6801",
-        "11604",
+        "5022",
         "12507",
         "7611",
         "11786",
@@ -7644,6 +7669,7 @@
       "owner_id": "470323699870855168",
       "player_map": null,
       "players": [
+        "11370",
         "11539",
         "11584",
         "11646",
@@ -7691,7 +7717,7 @@
         "11646",
         "9500",
         "5012",
-        "8132",
+        "9486",
         "9756",
         "11539",
         "JAX"
