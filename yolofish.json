@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-19T12:16:32.639838+00:00"
+    "last_changed": "2026-09-19T13:24:49.653572+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -447,14 +447,14 @@
         "3163",
         "4137",
         "4983",
+        "5001",
         "5850",
         "6790",
         "7526",
         "8259",
         "9221",
         "9228",
-        "HOU",
-        "TEN"
+        "HOU"
       ],
       "players_points": {
         "11560": 0.0,
@@ -468,14 +468,14 @@
         "3163": 38.78,
         "4137": 0.0,
         "4983": -0.1,
+        "5001": 0.0,
         "5850": 0.0,
         "6790": 0.0,
         "7526": 0.0,
         "8259": 0.0,
         "9221": 20.3,
         "9228": 0.0,
-        "HOU": 0.0,
-        "TEN": 0.0
+        "HOU": 0.0
       },
       "points": 58.98,
       "roster_id": 6,
@@ -487,10 +487,10 @@
         "11632",
         "4983",
         "1466",
-        "11631",
+        "5001",
         "7526",
         "8259",
-        "TEN"
+        "HOU"
       ],
       "starters_points": [
         0.0,
@@ -940,6 +940,31 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "5001": 6
+      },
+      "consenter_ids": [
+        6
+      ],
+      "created": 1789823640697,
+      "creator": "470266618262319104",
+      "draft_picks": [],
+      "drops": {
+        "TEN": 6
+      },
+      "leg": 2,
+      "metadata": null,
+      "roster_ids": [
+        6
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1789823640697,
+      "transaction_id": "1407025965254586368",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "9482": 10
@@ -6814,9 +6839,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1407010311180926976",
+    "last_message_id": "1407025965388808192",
     "last_message_text_map": null,
-    "last_message_time": 1789819908475,
+    "last_message_time": 1789823640728,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7564,14 +7589,14 @@
         "3163",
         "4137",
         "4983",
+        "5001",
         "5850",
         "6790",
         "7526",
         "8259",
         "9221",
         "9228",
-        "HOU",
-        "TEN"
+        "HOU"
       ],
       "reserve": [
         "13293",
@@ -7601,10 +7626,10 @@
         "11632",
         "4983",
         "1466",
-        "11631",
+        "5001",
         "7526",
         "8259",
-        "TEN"
+        "HOU"
       ],
       "taxi": null
     },
