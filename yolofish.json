@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-20T15:17:15.137658+00:00"
+    "last_changed": "2026-09-20T15:57:48.760036+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -168,7 +168,8 @@
         "9226",
         "9484",
         "96",
-        "DEN"
+        "DEN",
+        "LAC"
       ],
       "players_points": {
         "11576": 0.0,
@@ -187,7 +188,8 @@
         "9226": 0.0,
         "9484": 0.0,
         "96": 0.0,
-        "DEN": 0.0
+        "DEN": 0.0,
+        "LAC": 0.0
       },
       "points": 0.0,
       "roster_id": 2,
@@ -202,7 +204,7 @@
         "6786",
         "8137",
         "3451",
-        "DEN"
+        "LAC"
       ],
       "starters_points": [
         0.0,
@@ -942,6 +944,29 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "LAC": 2
+      },
+      "consenter_ids": [
+        2
+      ],
+      "created": 1789919610816,
+      "creator": "470008306950205440",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 2,
+      "metadata": null,
+      "roster_ids": [
+        2
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1789919610816,
+      "transaction_id": "1407428493108686848",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "11610": 6
@@ -6889,9 +6914,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1407414009128361984",
+    "last_message_id": "1407428493230321664",
     "last_message_text_map": null,
-    "last_message_time": 1789916157566,
+    "last_message_time": 1789919610844,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7372,9 +7397,12 @@
         "9226",
         "9484",
         "96",
-        "DEN"
+        "DEN",
+        "LAC"
       ],
-      "reserve": null,
+      "reserve": [
+        "5849"
+      ],
       "roster_id": 2,
       "settings": {
         "division": 2,
@@ -7402,7 +7430,7 @@
         "6786",
         "8137",
         "3451",
-        "DEN"
+        "LAC"
       ],
       "taxi": null
     },
