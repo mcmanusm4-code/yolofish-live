@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-21T07:21:38.356678+00:00"
+    "last_changed": "2026-09-21T23:14:13.908229+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -83,6 +83,7 @@
       "matchup_id": 5,
       "players": [
         "10222",
+        "11168",
         "11566",
         "11581",
         "11583",
@@ -102,6 +103,7 @@
       ],
       "players_points": {
         "10222": 0.9,
+        "11168": 0.0,
         "11566": 15.74,
         "11581": 7.6,
         "11583": 1.6,
@@ -126,7 +128,7 @@
         "6904",
         "13286",
         "9224",
-        "9493",
+        "11168",
         "8167",
         "4993",
         "4866",
@@ -944,6 +946,29 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "11168": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "created": 1790031507650,
+      "creator": "460117065320099840",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 2,
+      "metadata": null,
+      "roster_ids": [
+        1
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1790031507650,
+      "transaction_id": "1407897822451253248",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "LAC": 2
@@ -6914,9 +6939,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1407428493230321664",
+    "last_message_id": "1407897822589734912",
     "last_message_text_map": null,
-    "last_message_time": 1789919610844,
+    "last_message_time": 1790031507683,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7305,6 +7330,7 @@
       "player_map": null,
       "players": [
         "10222",
+        "11168",
         "11566",
         "11581",
         "11583",
@@ -7322,7 +7348,9 @@
         "9493",
         "BAL"
       ],
-      "reserve": null,
+      "reserve": [
+        "9493"
+      ],
       "roster_id": 1,
       "settings": {
         "division": 2,
@@ -7344,7 +7372,7 @@
         "6904",
         "13286",
         "9224",
-        "9493",
+        "11168",
         "8167",
         "4993",
         "4866",
