@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-23T11:37:42.502672+00:00"
+    "last_changed": "2026-09-23T13:16:45.685478+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -370,8 +370,8 @@
         "11620",
         "12508",
         "13287",
-        "13301",
         "13417",
+        "2306",
         "3257",
         "5927",
         "6819",
@@ -391,8 +391,8 @@
         "11620": 0.0,
         "12508": 0.0,
         "13287": 0.0,
-        "13301": 0.0,
         "13417": 0.0,
+        "2306": 0.0,
         "3257": 0.0,
         "5927": 0.0,
         "6819": 0.0,
@@ -945,7 +945,33 @@
       ]
     }
   ],
-  "current_week_transactions": [],
+  "current_week_transactions": [
+    {
+      "adds": {
+        "2306": 5
+      },
+      "consenter_ids": [
+        5
+      ],
+      "created": 1790168196298,
+      "creator": "470261764949274624",
+      "draft_picks": [],
+      "drops": {
+        "13301": 5
+      },
+      "leg": 3,
+      "metadata": null,
+      "roster_ids": [
+        5
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1790168196298,
+      "transaction_id": "1408471136194359296",
+      "type": "free_agent",
+      "waiver_budget": []
+    }
+  ],
   "draft_picks": [
     {
       "draft_id": "1389708582278148097",
@@ -6508,9 +6534,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1408382897966125056",
+    "last_message_id": "1408471136315957248",
     "last_message_text_map": null,
-    "last_message_time": 1790147158665,
+    "last_message_time": 1790168196328,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7177,8 +7203,8 @@
         "11620",
         "12508",
         "13287",
-        "13301",
         "13417",
+        "2306",
         "3257",
         "5927",
         "6819",
@@ -7194,7 +7220,7 @@
         "NE"
       ],
       "reserve": [
-        "12508",
+        "13417",
         "9502"
       ],
       "roster_id": 5,
