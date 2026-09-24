@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-24T17:19:33.481966+00:00"
+    "last_changed": "2026-09-24T17:34:35.496370+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -880,12 +880,12 @@
       "players": [
         "11435",
         "11624",
+        "13337",
         "1945",
         "2505",
         "4046",
         "4199",
         "4881",
-        "5045",
         "5846",
         "5870",
         "7002",
@@ -899,12 +899,12 @@
       "players_points": {
         "11435": 0.0,
         "11624": 0.0,
+        "13337": 0.0,
         "1945": 0.0,
         "2505": 0.0,
         "4046": 0.0,
         "4199": 0.0,
         "4881": 0.0,
-        "5045": 0.0,
         "5846": 0.0,
         "5870": 0.0,
         "7002": 0.0,
@@ -946,6 +946,31 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "13337": 12
+      },
+      "consenter_ids": [
+        12
+      ],
+      "created": 1790270923155,
+      "creator": "470648207311892480",
+      "draft_picks": [],
+      "drops": {
+        "5045": 12
+      },
+      "leg": 3,
+      "metadata": null,
+      "roster_ids": [
+        12
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1790270923155,
+      "transaction_id": "1408902003857346560",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "4035": 6
@@ -6605,9 +6630,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1408895125630861312",
+    "last_message_id": "1408902004016726016",
     "last_message_text_map": null,
-    "last_message_time": 1790269283257,
+    "last_message_time": 1790270923193,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7762,12 +7787,12 @@
       "players": [
         "11435",
         "11624",
+        "13337",
         "1945",
         "2505",
         "4046",
         "4199",
         "4881",
-        "5045",
         "5846",
         "5870",
         "7002",
