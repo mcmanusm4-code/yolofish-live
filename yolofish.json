@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-23T20:03:49.113268+00:00"
+    "last_changed": "2026-09-24T00:42:45.347044+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -514,7 +514,6 @@
       "custom_points": null,
       "matchup_id": 1,
       "players": [
-        "11370",
         "11539",
         "11584",
         "11646",
@@ -535,7 +534,6 @@
         "JAX"
       ],
       "players_points": {
-        "11370": 0.0,
         "11539": 0.0,
         "11584": 0.0,
         "11646": 0.0,
@@ -559,7 +557,7 @@
       "roster_id": 7,
       "starters": [
         "6797",
-        "8161",
+        "12522",
         "7588",
         "11584",
         "11646",
@@ -948,6 +946,29 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": null,
+      "consenter_ids": [
+        7
+      ],
+      "created": 1790209629423,
+      "creator": "470323699870855168",
+      "draft_picks": [],
+      "drops": {
+        "11370": 7
+      },
+      "leg": 3,
+      "metadata": null,
+      "roster_ids": [
+        7
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1790209629423,
+      "transaction_id": "1408644919316279296",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "11637": 4
@@ -6559,9 +6580,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1408514419050151936",
+    "last_message_id": "1408644919454605312",
     "last_message_text_map": null,
-    "last_message_time": 1790178515736,
+    "last_message_time": 1790209629456,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7372,7 +7393,6 @@
       "owner_id": "470323699870855168",
       "player_map": null,
       "players": [
-        "11370",
         "11539",
         "11584",
         "11646",
@@ -7393,8 +7413,7 @@
         "JAX"
       ],
       "reserve": [
-        "5859",
-        "8210"
+        "5859"
       ],
       "roster_id": 7,
       "settings": {
@@ -7414,7 +7433,7 @@
       },
       "starters": [
         "6797",
-        "8161",
+        "12522",
         "7588",
         "11584",
         "11646",
