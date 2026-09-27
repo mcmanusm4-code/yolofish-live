@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-26T20:46:02.836359+00:00"
+    "last_changed": "2026-09-27T01:52:53.797842+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -882,8 +882,8 @@
       "players": [
         "11435",
         "11624",
+        "12185",
         "13337",
-        "1945",
         "2505",
         "4046",
         "4199",
@@ -901,8 +901,8 @@
       "players_points": {
         "11435": 0.0,
         "11624": 0.0,
+        "12185": 0.0,
         "13337": 0.0,
-        "1945": 0.0,
         "2505": 0.0,
         "4046": 0.0,
         "4199": 0.0,
@@ -927,9 +927,9 @@
         "9488",
         "11624",
         "7002",
-        "5846",
+        "7571",
         "8134",
-        "1945",
+        "12185",
         "SF"
       ],
       "starters_points": [
@@ -948,6 +948,31 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "12185": 12
+      },
+      "consenter_ids": [
+        12
+      ],
+      "created": 1790473777705,
+      "creator": "470648207311892480",
+      "draft_picks": [],
+      "drops": {
+        "1945": 12
+      },
+      "leg": 3,
+      "metadata": null,
+      "roster_ids": [
+        12
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1790473777705,
+      "transaction_id": "1409752837511999488",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "5854": 1
@@ -6710,9 +6735,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1409251269796757504",
+    "last_message_id": "1409752837621026816",
     "last_message_text_map": null,
-    "last_message_time": 1790354194643,
+    "last_message_time": 1790473777731,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7868,8 +7893,8 @@
       "players": [
         "11435",
         "11624",
+        "12185",
         "13337",
-        "1945",
         "2505",
         "4046",
         "4199",
@@ -7909,9 +7934,9 @@
         "9488",
         "11624",
         "7002",
-        "5846",
+        "7571",
         "8134",
-        "1945",
+        "12185",
         "SF"
       ],
       "taxi": null
