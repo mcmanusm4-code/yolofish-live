@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-27T15:02:51.540392+00:00"
+    "last_changed": "2026-09-27T15:51:39.202588+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -894,7 +894,7 @@
         "8134",
         "9488",
         "9504",
-        "SF"
+        "CIN"
       ],
       "players_points": {
         "11435": 0.0,
@@ -913,7 +913,7 @@
         "8134": 0.0,
         "9488": 0.0,
         "9504": 0.0,
-        "SF": 0.0
+        "CIN": 0.0
       },
       "points": 0.0,
       "roster_id": 12,
@@ -928,7 +928,7 @@
         "7571",
         "8134",
         "12185",
-        "SF"
+        "CIN"
       ],
       "starters_points": [
         0.0,
@@ -946,6 +946,31 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "CIN": 12
+      },
+      "consenter_ids": [
+        12
+      ],
+      "created": 1790523617578,
+      "creator": "470648207311892480",
+      "draft_picks": [],
+      "drops": {
+        "SF": 12
+      },
+      "leg": 3,
+      "metadata": null,
+      "roster_ids": [
+        12
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1790523617578,
+      "transaction_id": "1409961881086529536",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "3321": 7
@@ -6781,9 +6806,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1409951276489244672",
+    "last_message_id": "1409961881220775936",
     "last_message_text_map": null,
-    "last_message_time": 1790521089244,
+    "last_message_time": 1790523617610,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7951,7 +7976,7 @@
         "8134",
         "9488",
         "9504",
-        "SF"
+        "CIN"
       ],
       "reserve": null,
       "roster_id": 12,
@@ -7981,7 +8006,7 @@
         "7571",
         "8134",
         "12185",
-        "SF"
+        "CIN"
       ],
       "taxi": null
     }
