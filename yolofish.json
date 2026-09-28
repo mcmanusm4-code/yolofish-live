@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-28T00:46:24.942844+00:00"
+    "last_changed": "2026-09-28T01:01:32.546664+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -190,7 +190,7 @@
         "9226": 1.7,
         "9484": 4.6,
         "96": 28.68,
-        "DEN": 11.5,
+        "DEN": 5.5,
         "MIN": 17.5
       },
       "points": 133.3,
@@ -247,11 +247,11 @@
       "players_points": {
         "10219": 9.7,
         "10859": 5.9,
-        "12015": 0.0,
+        "12015": 1.0,
         "12527": 10.8,
         "13269": 0.0,
         "13296": 0.0,
-        "421": 3.44,
+        "421": 9.64,
         "4984": 16.96,
         "5947": 15.9,
         "5967": 11.6,
@@ -263,7 +263,7 @@
         "9997": 12.9,
         "GB": -4.75
       },
-      "points": 96.95,
+      "points": 104.15,
       "roster_id": 3,
       "starters": [
         "4984",
@@ -280,7 +280,7 @@
       ],
       "starters_points": [
         16.96,
-        3.44,
+        9.64,
         22.4,
         10.8,
         9.9,
@@ -288,7 +288,7 @@
         5.9,
         7.8,
         11.6,
-        0.0,
+        1.0,
         -4.75
       ]
     },
@@ -542,7 +542,7 @@
         "13279": 8.8,
         "3321": 0.0,
         "5012": 3.9,
-        "5045": 0.0,
+        "5045": 1.5,
         "5859": 0.0,
         "6797": 14.74,
         "7588": 16.3,
@@ -826,9 +826,9 @@
         "TB"
       ],
       "players_points": {
-        "11563": 0.24,
+        "11563": 0.84,
         "11635": 8.6,
-        "12489": 1.1,
+        "12489": 2.5,
         "12526": 2.7,
         "13298": 1.94,
         "13346": 7.1,
@@ -839,13 +839,13 @@
         "5892": 5.8,
         "6783": 0.0,
         "6804": 24.48,
-        "6806": -0.2,
+        "6806": 0.2,
         "7553": 1.0,
         "8154": 13.16,
         "8205": 0.0,
         "TB": 5.5
       },
-      "points": 81.08,
+      "points": 83.08,
       "roster_id": 11,
       "starters": [
         "11563",
@@ -861,10 +861,10 @@
         "TB"
       ],
       "starters_points": [
-        0.24,
+        0.84,
         24.48,
         5.8,
-        1.1,
+        2.5,
         2.7,
         8.6,
         1.0,
@@ -6806,9 +6806,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1409961881220775936",
+    "last_message_id": "1410100174818217984",
     "last_message_text_map": null,
-    "last_message_time": 1790523617610,
+    "last_message_time": 1790556589373,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7259,18 +7259,6 @@
         "allow_pn_inactive_starters": "on",
         "allow_pn_player_injury_status": "on",
         "allow_pn_scoring": "off",
-        "p_nick_1339": "",
-        "p_nick_167": "",
-        "p_nick_1689": "",
-        "p_nick_2374": "",
-        "p_nick_2449": "",
-        "p_nick_4029": "",
-        "p_nick_4881": "",
-        "p_nick_49": "",
-        "p_nick_4983": "",
-        "p_nick_5892": "",
-        "p_nick_6945": "",
-        "p_nick_7553": "",
         "record": "LL",
         "restrict_pn_scoring_starters_only": "on",
         "streak": "2L"
@@ -8075,7 +8063,7 @@
         "mention_pn": "on",
         "player_like_pn": "off",
         "player_nickname_update": "off",
-        "team_name": "Fireman Ed Bandwagon Fan",
+        "team_name": "Cam CeeDeez Purdy ol\u2019nuts",
         "team_name_update": "off",
         "trade_block_pn": "off",
         "transaction_commissioner": "off",
