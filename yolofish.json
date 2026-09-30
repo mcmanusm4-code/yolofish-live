@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-30T05:41:06.799752+00:00"
+    "last_changed": "2026-09-30T07:06:06.964396+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -6871,7 +6871,7 @@
     }
   ],
   "nfl_state": {
-    "display_week": 3,
+    "display_week": 4,
     "league_create_season": "2026",
     "league_season": "2026",
     "leg": 4,
