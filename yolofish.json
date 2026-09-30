@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-30T07:06:06.964396+00:00"
+    "last_changed": "2026-09-30T07:29:52.464038+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -158,6 +158,7 @@
       "players": [
         "11576",
         "11586",
+        "11643",
         "11655",
         "12481",
         "13294",
@@ -177,6 +178,7 @@
       "players_points": {
         "11576": 0.0,
         "11586": 0.0,
+        "11643": 0.0,
         "11655": 0.0,
         "12481": 0.0,
         "13294": 0.0,
@@ -297,10 +299,11 @@
       "matchup_id": 2,
       "players": [
         "11604",
-        "11637",
         "11786",
+        "12495",
         "12507",
         "12545",
+        "1479",
         "3198",
         "4017",
         "5022",
@@ -317,10 +320,11 @@
       ],
       "players_points": {
         "11604": 0.0,
-        "11637": 0.0,
         "11786": 0.0,
+        "12495": 0.0,
         "12507": 0.0,
         "12545": 0.0,
+        "1479": 0.0,
         "3198": 0.0,
         "4017": 0.0,
         "5022": 0.0,
@@ -878,11 +882,12 @@
       "custom_points": null,
       "matchup_id": 6,
       "players": [
-        "11435",
         "11624",
         "12185",
+        "13311",
         "13337",
         "2505",
+        "3634",
         "4046",
         "4199",
         "4881",
@@ -893,15 +898,15 @@
         "7571",
         "8134",
         "9488",
-        "9504",
         "CIN"
       ],
       "players_points": {
-        "11435": 0.0,
         "11624": 0.0,
         "12185": 0.0,
+        "13311": 0.0,
         "13337": 0.0,
         "2505": 0.0,
+        "3634": 0.0,
         "4046": 0.0,
         "4199": 0.0,
         "4881": 0.0,
@@ -912,7 +917,6 @@
         "7571": 0.0,
         "8134": 0.0,
         "9488": 0.0,
-        "9504": 0.0,
         "CIN": 0.0
       },
       "points": 0.0,
@@ -6508,9 +6512,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1410680768430092288",
+    "last_message_id": "1410919656113377280",
     "last_message_text_map": null,
-    "last_message_time": 1790695013676,
+    "last_message_time": 1790751968938,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -6627,7 +6631,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 1024,
       "daily_waivers_hour": 0,
-      "daily_waivers_last_ran": 29,
+      "daily_waivers_last_ran": 30,
       "disable_adds": 0,
       "disable_trades": 0,
       "divisions": 4,
@@ -6635,7 +6639,7 @@
       "last_report": 3,
       "last_scored_leg": 3,
       "league_average_match": 0,
-      "leg": 3,
+      "leg": 4,
       "max_keepers": 6,
       "max_subs": 0,
       "num_teams": 12,
@@ -6970,6 +6974,7 @@
       "players": [
         "11576",
         "11586",
+        "11643",
         "11655",
         "12481",
         "13294",
@@ -7002,8 +7007,8 @@
         "ppts_decimal": 36,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 1,
-        "waiver_position": 10,
+        "waiver_budget_used": 4,
+        "waiver_position": 11,
         "wins": 1
       },
       "starters": [
@@ -7098,10 +7103,11 @@
       "player_map": null,
       "players": [
         "11604",
-        "11637",
         "11786",
+        "12495",
         "12507",
         "12545",
+        "1479",
         "3198",
         "4017",
         "5022",
@@ -7132,8 +7138,8 @@
         "ppts_decimal": 33,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 30,
-        "waiver_position": 8,
+        "waiver_budget_used": 100,
+        "waiver_position": 12,
         "wins": 2
       },
       "starters": [
@@ -7347,7 +7353,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 7,
-        "waiver_position": 12,
+        "waiver_position": 9,
         "wins": 0
       },
       "starters": [
@@ -7543,7 +7549,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 11,
+        "waiver_position": 8,
         "wins": 2
       },
       "starters": [
@@ -7654,11 +7660,12 @@
       "owner_id": "470648207311892480",
       "player_map": null,
       "players": [
-        "11435",
         "11624",
         "12185",
+        "13311",
         "13337",
         "2505",
+        "3634",
         "4046",
         "4199",
         "4881",
@@ -7669,7 +7676,6 @@
         "7571",
         "8134",
         "9488",
-        "9504",
         "CIN"
       ],
       "reserve": [
@@ -7687,8 +7693,8 @@
         "ppts_decimal": 65,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 30,
-        "waiver_position": 9,
+        "waiver_budget_used": 46,
+        "waiver_position": 10,
         "wins": 2
       },
       "starters": [
