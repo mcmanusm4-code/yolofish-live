@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-09-30T22:36:40.978742+00:00"
+    "last_changed": "2026-10-01T01:35:02.865698+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -89,16 +89,16 @@
         "11583",
         "12514",
         "12533",
+        "12711",
         "13286",
-        "13545",
+        "2307",
         "4866",
-        "4993",
-        "5854",
         "6768",
         "6794",
         "6904",
         "8167",
         "9224",
+        "9480",
         "9493",
         "BAL"
       ],
@@ -110,32 +110,32 @@
         "11583": 0.0,
         "12514": 0.0,
         "12533": 0.0,
+        "12711": 0.0,
         "13286": 0.0,
-        "13545": 0.0,
+        "2307": 0.0,
         "4866": 0.0,
-        "4993": 0.0,
-        "5854": 0.0,
         "6768": 0.0,
         "6794": 0.0,
         "6904": 0.0,
         "8167": 0.0,
         "9224": 0.0,
+        "9480": 0.0,
         "9493": 0.0,
         "BAL": 0.0
       },
       "points": 0.0,
       "roster_id": 1,
       "starters": [
-        "5854",
+        "2307",
         "6904",
-        "13286",
+        "4866",
         "9224",
         "6794",
         "8167",
-        "4993",
-        "4866",
+        "9480",
+        "9493",
         "12514",
-        "13545",
+        "12711",
         "BAL"
       ],
       "starters_points": [
@@ -952,6 +952,81 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "9480": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "created": 1790810781707,
+      "creator": "460117065320099840",
+      "draft_picks": [],
+      "drops": {
+        "4993": 1
+      },
+      "leg": 4,
+      "metadata": null,
+      "roster_ids": [
+        1
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1790810781707,
+      "transaction_id": "1411166334745616384",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "12711": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "created": 1790810758944,
+      "creator": "460117065320099840",
+      "draft_picks": [],
+      "drops": {
+        "13545": 1
+      },
+      "leg": 4,
+      "metadata": null,
+      "roster_ids": [
+        1
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1790810758944,
+      "transaction_id": "1411166239270658048",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "2307": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "created": 1790810614695,
+      "creator": "460117065320099840",
+      "draft_picks": [],
+      "drops": {
+        "5854": 1
+      },
+      "leg": 4,
+      "metadata": null,
+      "roster_ids": [
+        1
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1790810614695,
+      "transaction_id": "1411165634246574080",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "13317": 5
@@ -6588,9 +6663,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1411000134858276864",
+    "last_message_id": "1411166334867243008",
     "last_message_text_map": null,
-    "last_message_time": 1790771156566,
+    "last_message_time": 1790810781736,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -6985,22 +7060,22 @@
         "11583",
         "12514",
         "12533",
+        "12711",
         "13286",
-        "13545",
+        "2307",
         "4866",
-        "4993",
-        "5854",
         "6768",
         "6794",
         "6904",
         "8167",
         "9224",
+        "9480",
         "9493",
         "BAL"
       ],
       "reserve": [
         "10222",
-        "11566"
+        "11583"
       ],
       "roster_id": 1,
       "settings": {
@@ -7019,16 +7094,16 @@
         "wins": 1
       },
       "starters": [
-        "5854",
+        "2307",
         "6904",
-        "13286",
+        "4866",
         "9224",
         "6794",
         "8167",
-        "4993",
-        "4866",
+        "9480",
+        "9493",
         "12514",
-        "13545",
+        "12711",
         "BAL"
       ],
       "taxi": null
