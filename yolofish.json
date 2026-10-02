@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-10-02T10:02:03.736053+00:00"
+    "last_changed": "2026-10-02T16:14:34.893557+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -240,6 +240,7 @@
         "5967",
         "7547",
         "8110",
+        "8132",
         "8138",
         "8676",
         "9754",
@@ -259,6 +260,7 @@
         "5967": 0.0,
         "7547": 0.0,
         "8110": 0.0,
+        "8132": 0.0,
         "8138": 0.0,
         "8676": 0.0,
         "9754": 0.0,
@@ -275,7 +277,7 @@
         "7547",
         "9997",
         "10859",
-        "8110",
+        "5947",
         "5967",
         "12015",
         "GB"
@@ -952,6 +954,29 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "8132": 3
+      },
+      "consenter_ids": [
+        3
+      ],
+      "created": 1790955182288,
+      "creator": "872279829003878400",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 4,
+      "metadata": null,
+      "roster_ids": [
+        3
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1790955182288,
+      "transaction_id": "1411771994680090624",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "12504": 7
@@ -6713,9 +6738,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1411375512177192960",
+    "last_message_id": "1411771994768228352",
     "last_message_text_map": null,
-    "last_message_time": 1790860653494,
+    "last_message_time": 1790955182310,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7253,13 +7278,16 @@
         "5967",
         "7547",
         "8110",
+        "8132",
         "8138",
         "8676",
         "9754",
         "9997",
         "GB"
       ],
-      "reserve": null,
+      "reserve": [
+        "13296"
+      ],
       "roster_id": 3,
       "settings": {
         "division": 4,
@@ -7284,7 +7312,7 @@
         "7547",
         "9997",
         "10859",
-        "8110",
+        "5947",
         "5967",
         "12015",
         "GB"
