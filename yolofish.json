@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-10-02T16:14:34.893557+00:00"
+    "last_changed": "2026-10-03T05:11:10.156027+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -884,6 +884,7 @@
       "custom_points": null,
       "matchup_id": 6,
       "players": [
+        "11435",
         "11624",
         "12185",
         "13311",
@@ -897,13 +898,13 @@
         "5870",
         "7002",
         "7543",
-        "7571",
         "8134",
         "9488",
         "9757",
         "BUF"
       ],
       "players_points": {
+        "11435": 0.0,
         "11624": 0.0,
         "12185": 0.0,
         "13311": 0.0,
@@ -917,7 +918,6 @@
         "5870": 0.0,
         "7002": 0.0,
         "7543": 0.0,
-        "7571": 0.0,
         "8134": 0.0,
         "9488": 0.0,
         "9757": 0.0,
@@ -928,7 +928,7 @@
       "starters": [
         "4881",
         "4046",
-        "9757",
+        "11435",
         "4199",
         "9488",
         "3634",
@@ -954,6 +954,31 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "11435": 12
+      },
+      "consenter_ids": [
+        12
+      ],
+      "created": 1790992639091,
+      "creator": "470648207311892480",
+      "draft_picks": [],
+      "drops": {
+        "7571": 12
+      },
+      "leg": 4,
+      "metadata": null,
+      "roster_ids": [
+        12
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1790992639091,
+      "transaction_id": "1411929099898789888",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "8132": 3
@@ -6738,9 +6763,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1411771994768228352",
+    "last_message_id": "1411929099974266880",
     "last_message_text_map": null,
-    "last_message_time": 1790955182310,
+    "last_message_time": 1790992639109,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7887,6 +7912,7 @@
       "owner_id": "470648207311892480",
       "player_map": null,
       "players": [
+        "11435",
         "11624",
         "12185",
         "13311",
@@ -7900,7 +7926,6 @@
         "5870",
         "7002",
         "7543",
-        "7571",
         "8134",
         "9488",
         "9757",
@@ -7928,7 +7953,7 @@
       "starters": [
         "4881",
         "4046",
-        "9757",
+        "11435",
         "4199",
         "9488",
         "3634",
