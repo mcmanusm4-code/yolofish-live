@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-10-03T10:26:41.774006+00:00"
+    "last_changed": "2026-10-04T05:49:48.130917+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -165,6 +165,7 @@
         "3451",
         "5849",
         "6786",
+        "7049",
         "7525",
         "7528",
         "8137",
@@ -185,6 +186,7 @@
         "3451": 0.0,
         "5849": 0.0,
         "6786": 0.0,
+        "7049": 0.0,
         "7525": 0.0,
         "7528": 0.0,
         "8137": 0.0,
@@ -205,7 +207,7 @@
         "6786",
         "8137",
         "9484",
-        "7525",
+        "13294",
         "2216",
         "3451",
         "MIN"
@@ -954,6 +956,29 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "7049": 2
+      },
+      "consenter_ids": [
+        2
+      ],
+      "created": 1791090203637,
+      "creator": "470008306950205440",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 4,
+      "metadata": null,
+      "roster_ids": [
+        2
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1791090203637,
+      "transaction_id": "1412338315260108800",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "11435": 12
@@ -6763,9 +6788,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1411929099974266880",
+    "last_message_id": "1412338315335577600",
     "last_message_text_map": null,
-    "last_message_time": 1790992639109,
+    "last_message_time": 1791090203654,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7232,6 +7257,7 @@
         "3451",
         "5849",
         "6786",
+        "7049",
         "7525",
         "7528",
         "8137",
@@ -7243,6 +7269,7 @@
         "MIN"
       ],
       "reserve": [
+        "7525",
         "9226"
       ],
       "roster_id": 2,
@@ -7269,7 +7296,7 @@
         "6786",
         "8137",
         "9484",
-        "7525",
+        "13294",
         "2216",
         "3451",
         "MIN"
