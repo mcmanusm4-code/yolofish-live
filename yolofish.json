@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-10-07T00:35:34.982574+00:00"
+    "last_changed": "2026-10-07T06:27:44.282558+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -210,7 +210,7 @@
         "13294",
         "2216",
         "3451",
-        "MIN"
+        "DEN"
       ],
       "starters_points": [
         0.0,
@@ -492,7 +492,7 @@
       "points": 0.0,
       "roster_id": 6,
       "starters": [
-        "11560",
+        "0",
         "3163",
         "9221",
         "6790",
@@ -7029,7 +7029,7 @@
         "13294",
         "2216",
         "3451",
-        "MIN"
+        "DEN"
       ],
       "taxi": null
     },
@@ -7076,10 +7076,10 @@
         "fpts": 645,
         "fpts_against": 515,
         "fpts_against_decimal": 47,
-        "fpts_decimal": 32,
+        "fpts_decimal": 57,
         "losses": 1,
         "ppts": 687,
-        "ppts_decimal": 56,
+        "ppts_decimal": 81,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
@@ -7284,6 +7284,7 @@
         "HOU"
       ],
       "reserve": [
+        "11560",
         "4137"
       ],
       "roster_id": 6,
@@ -7303,7 +7304,7 @@
         "wins": 3
       },
       "starters": [
-        "9228",
+        "0",
         "3163",
         "9221",
         "6790",
@@ -7614,8 +7615,8 @@
       "settings": {
         "division": 1,
         "fpts": 478,
-        "fpts_against": 529,
-        "fpts_against_decimal": 86,
+        "fpts_against": 530,
+        "fpts_against_decimal": 11,
         "fpts_decimal": 5,
         "losses": 4,
         "ppts": 563,
