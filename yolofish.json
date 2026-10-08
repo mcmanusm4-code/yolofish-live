@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-10-08T17:47:34.739760+00:00"
+    "last_changed": "2026-10-08T22:30:30.670837+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -745,7 +745,7 @@
         "12506",
         "13330",
         "13345",
-        "2747",
+        "1945",
         "3294",
         "4037",
         "6813",
@@ -765,7 +765,7 @@
         "12506": 0.0,
         "13330": 0.0,
         "13345": 0.0,
-        "2747": 0.0,
+        "1945": 0.0,
         "3294": 0.0,
         "4037": 0.0,
         "6813": 0.0,
@@ -789,7 +789,7 @@
         "12506",
         "8131",
         "7569",
-        "2747",
+        "1945",
         "HOU"
       ],
       "starters_points": [
@@ -952,6 +952,31 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "1945": 10
+      },
+      "consenter_ids": [
+        10
+      ],
+      "created": 1791484663554,
+      "creator": "470405149974589440",
+      "draft_picks": [],
+      "drops": {
+        "2747": 10
+      },
+      "leg": 5,
+      "metadata": null,
+      "roster_ids": [
+        10
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1791484663554,
+      "transaction_id": "1413992800071987200",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "3214": 1
@@ -6864,9 +6889,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1413803759229771776",
+    "last_message_id": "1413992800210436096",
     "last_message_text_map": null,
-    "last_message_time": 1791439592705,
+    "last_message_time": 1791484663587,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7872,7 +7897,7 @@
         "12506",
         "13330",
         "13345",
-        "2747",
+        "1945",
         "3294",
         "4037",
         "6813",
@@ -7913,7 +7938,7 @@
         "12506",
         "8131",
         "7569",
-        "2747",
+        "1945",
         "HOU"
       ],
       "taxi": null
