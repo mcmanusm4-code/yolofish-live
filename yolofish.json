@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-10-11T06:19:27.299093+00:00"
+    "last_changed": "2026-10-11T13:10:19.004046+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -271,12 +271,12 @@
         "4984",
         "421",
         "8138",
-        "12527",
+        "5967",
         "7547",
         "9997",
         "10859",
         "5947",
-        "5967",
+        "12527",
         "6083",
         "CIN"
       ],
@@ -567,7 +567,7 @@
         "7588",
         "11584",
         "11637",
-        "9486",
+        "9500",
         "5012",
         "11630",
         "13279",
@@ -956,6 +956,52 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": null,
+      "consenter_ids": [
+        7
+      ],
+      "created": 1791719880541,
+      "creator": "470323699870855168",
+      "draft_picks": [],
+      "drops": {
+        "3271": 7
+      },
+      "leg": 5,
+      "metadata": null,
+      "roster_ids": [
+        7
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1791719880541,
+      "transaction_id": "1414979371617320960",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "3271": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "created": 1791719729744,
+      "creator": "470323699870855168",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 5,
+      "metadata": null,
+      "roster_ids": [
+        7
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1791719729744,
+      "transaction_id": "1414978739132973056",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "4454": 7
@@ -7089,9 +7135,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1414873204060692480",
+    "last_message_id": "1414979371755712512",
     "last_message_text_map": null,
-    "last_message_time": 1791694568222,
+    "last_message_time": 1791719880574,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7208,7 +7254,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 1024,
       "daily_waivers_hour": 0,
-      "daily_waivers_last_ran": 10,
+      "daily_waivers_last_ran": 11,
       "disable_adds": 0,
       "disable_trades": 0,
       "divisions": 4,
@@ -7656,12 +7702,12 @@
         "4984",
         "421",
         "8138",
-        "12527",
+        "5967",
         "7547",
         "9997",
         "10859",
         "5947",
-        "5967",
+        "12527",
         "6083",
         "CIN"
       ],
@@ -7941,7 +7987,7 @@
         "7588",
         "11584",
         "11637",
-        "9486",
+        "9500",
         "5012",
         "11630",
         "13279",
