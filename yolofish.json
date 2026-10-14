@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-10-14T12:36:48.275307+00:00"
+    "last_changed": "2026-10-14T17:36:26.761866+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -305,7 +305,6 @@
         "12545",
         "3198",
         "4017",
-        "4018",
         "5022",
         "6770",
         "6801",
@@ -326,7 +325,6 @@
         "12545": 0.0,
         "3198": 0.0,
         "4017": 0.0,
-        "4018": 0.0,
         "5022": 0.0,
         "6770": 0.0,
         "6801": 0.0,
@@ -342,17 +340,17 @@
       "points": 0.0,
       "roster_id": 4,
       "starters": [
-        "6770",
+        "4017",
         "12545",
         "9509",
         "3198",
         "8112",
-        "6801",
-        "11604",
         "9487",
+        "11604",
+        "7611",
         "12507",
         "11786",
-        "PHI"
+        "SEA"
       ],
       "starters_points": [
         0.0,
@@ -459,9 +457,11 @@
         "650",
         "6790",
         "7526",
+        "8129",
         "9221",
         "9228",
-        "ATL"
+        "9480",
+        "KC"
       ],
       "players_points": {
         "11560": 0.0,
@@ -477,9 +477,11 @@
         "650": 0.0,
         "6790": 0.0,
         "7526": 0.0,
+        "8129": 0.0,
         "9221": 0.0,
         "9228": 0.0,
-        "ATL": 0.0
+        "9480": 0.0,
+        "KC": 0.0
       },
       "points": 0.0,
       "roster_id": 6,
@@ -490,11 +492,11 @@
         "6790",
         "11632",
         "7526",
-        "1466",
-        "0",
-        "0",
+        "9480",
+        "4983",
+        "8129",
         "650",
-        "ATL"
+        "KC"
       ],
       "starters_points": [
         0.0,
@@ -950,6 +952,100 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": null,
+      "consenter_ids": [
+        4
+      ],
+      "created": 1791989130938,
+      "creator": "470049364996255744",
+      "draft_picks": [],
+      "drops": {
+        "4018": 4
+      },
+      "leg": 6,
+      "metadata": null,
+      "roster_ids": [
+        4
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1791989130938,
+      "transaction_id": "1416108689638641664",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "KC": 6
+      },
+      "consenter_ids": [
+        6
+      ],
+      "created": 1791988550749,
+      "creator": "470266618262319104",
+      "draft_picks": [],
+      "drops": {
+        "ATL": 6
+      },
+      "leg": 6,
+      "metadata": null,
+      "roster_ids": [
+        6
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1791988550749,
+      "transaction_id": "1416106256149573632",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "9480": 6
+      },
+      "consenter_ids": [
+        6
+      ],
+      "created": 1791988493344,
+      "creator": "470266618262319104",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 6,
+      "metadata": null,
+      "roster_ids": [
+        6
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1791988493344,
+      "transaction_id": "1416106015375601664",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "8129": 6
+      },
+      "consenter_ids": [
+        6
+      ],
+      "created": 1791988460782,
+      "creator": "470266618262319104",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 6,
+      "metadata": null,
+      "roster_ids": [
+        6
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1791988460782,
+      "transaction_id": "1416105878800625664",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": null,
       "consenter_ids": [
@@ -6536,9 +6632,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1416074436250988544",
+    "last_message_id": "1416108689772781568",
     "last_message_text_map": null,
-    "last_message_time": 1791980964295,
+    "last_message_time": 1791989130971,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7132,7 +7228,6 @@
         "12545",
         "3198",
         "4017",
-        "4018",
         "5022",
         "6770",
         "6801",
@@ -7146,7 +7241,6 @@
         "SEA"
       ],
       "reserve": [
-        "5022",
         "8142"
       ],
       "roster_id": 4,
@@ -7166,17 +7260,17 @@
         "wins": 3
       },
       "starters": [
-        "6770",
+        "4017",
         "12545",
         "9509",
         "3198",
         "8112",
-        "6801",
-        "11604",
         "9487",
+        "11604",
+        "7611",
         "12507",
         "11786",
-        "PHI"
+        "SEA"
       ],
       "taxi": null
     },
@@ -7290,13 +7384,14 @@
         "650",
         "6790",
         "7526",
+        "8129",
         "9221",
         "9228",
-        "ATL"
+        "9480",
+        "KC"
       ],
       "reserve": [
-        "4137",
-        "4983"
+        "4137"
       ],
       "roster_id": 6,
       "settings": {
@@ -7321,11 +7416,11 @@
         "6790",
         "11632",
         "7526",
-        "1466",
-        "0",
-        "0",
+        "9480",
+        "4983",
+        "8129",
         "650",
-        "ATL"
+        "KC"
       ],
       "taxi": null
     },
