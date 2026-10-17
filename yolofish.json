@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-10-16T22:02:12.319585+00:00"
+    "last_changed": "2026-10-17T04:50:44.236106+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -668,19 +668,20 @@
         "10232",
         "10236",
         "11533",
+        "11647",
         "1166",
-        "11729",
+        "11783",
         "12512",
         "12517",
         "12529",
         "12534",
+        "13150",
         "2449",
         "3161",
+        "3271",
         "4177",
         "4943",
-        "6828",
         "8408",
-        "9508",
         "PIT"
       ],
       "players_points": {
@@ -688,19 +689,20 @@
         "10232": 0.0,
         "10236": 0.0,
         "11533": 0.0,
+        "11647": 0.0,
         "1166": 0.0,
-        "11729": 0.0,
+        "11783": 0.0,
         "12512": 0.0,
         "12517": 0.0,
         "12529": 0.0,
         "12534": 0.0,
+        "13150": 0.0,
         "2449": 0.0,
         "3161": 0.0,
+        "3271": 0.0,
         "4177": 0.0,
         "4943": 11.02,
-        "6828": 0.0,
         "8408": 0.0,
-        "9508": 0.0,
         "PIT": 0.0
       },
       "points": 11.02,
@@ -954,6 +956,104 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "11783": 9
+      },
+      "consenter_ids": [
+        9
+      ],
+      "created": 1792197204449,
+      "creator": "470384580994527232",
+      "draft_picks": [],
+      "drops": {
+        "9508": 9
+      },
+      "leg": 6,
+      "metadata": null,
+      "roster_ids": [
+        9
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1792197204449,
+      "transaction_id": "1416981413193900032",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "13150": 9
+      },
+      "consenter_ids": [
+        9
+      ],
+      "created": 1792197148589,
+      "creator": "470384580994527232",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 6,
+      "metadata": null,
+      "roster_ids": [
+        9
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1792197148589,
+      "transaction_id": "1416981178904223744",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "11647": 9
+      },
+      "consenter_ids": [
+        9
+      ],
+      "created": 1792196940789,
+      "creator": "470384580994527232",
+      "draft_picks": [],
+      "drops": {
+        "6828": 9
+      },
+      "leg": 6,
+      "metadata": null,
+      "roster_ids": [
+        9
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1792196940789,
+      "transaction_id": "1416980307323748352",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "3271": 9
+      },
+      "consenter_ids": [
+        9
+      ],
+      "created": 1792196875728,
+      "creator": "470384580994527232",
+      "draft_picks": [],
+      "drops": {
+        "11729": 9
+      },
+      "leg": 6,
+      "metadata": null,
+      "roster_ids": [
+        9
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1792196875728,
+      "transaction_id": "1416980034442313728",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "7083": 12
@@ -6883,9 +6983,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1416879311876530176",
+    "last_message_id": "1416981413323919360",
     "last_message_text_map": null,
-    "last_message_time": 1792172861598,
+    "last_message_time": 1792197204479,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7822,22 +7922,24 @@
         "10232",
         "10236",
         "11533",
+        "11647",
         "1166",
-        "11729",
+        "11783",
         "12512",
         "12517",
         "12529",
         "12534",
+        "13150",
         "2449",
         "3161",
+        "3271",
         "4177",
         "4943",
-        "6828",
         "8408",
-        "9508",
         "PIT"
       ],
       "reserve": [
+        "4177",
         "8408"
       ],
       "roster_id": 9,
