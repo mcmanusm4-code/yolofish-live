@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-10-18T05:17:44.285315+00:00"
+    "last_changed": "2026-10-18T09:43:29.823830+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -488,7 +488,7 @@
       "starters": [
         "9228",
         "11560",
-        "4035",
+        "8129",
         "6790",
         "11632",
         "7526",
@@ -7123,7 +7123,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 1024,
       "daily_waivers_hour": 0,
-      "daily_waivers_last_ran": 17,
+      "daily_waivers_last_ran": 18,
       "disable_adds": 0,
       "disable_trades": 0,
       "divisions": 4,
@@ -7784,7 +7784,7 @@
       "starters": [
         "9228",
         "11560",
-        "4035",
+        "8129",
         "6790",
         "11632",
         "7526",
