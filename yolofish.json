@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-10-17T08:57:32.103076+00:00"
+    "last_changed": "2026-10-18T05:17:44.285315+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -518,7 +518,6 @@
       "players": [
         "11539",
         "11584",
-        "11630",
         "11637",
         "11646",
         "12474",
@@ -539,7 +538,6 @@
       "players_points": {
         "11539": 0.0,
         "11584": 0.0,
-        "11630": 0.0,
         "11637": 0.0,
         "11646": 0.0,
         "12474": 0.0,
@@ -564,11 +562,11 @@
         "12522",
         "7588",
         "11584",
-        "4454",
+        "5859",
         "11646",
         "7600",
         "12474",
-        "11637",
+        "4454",
         "2747",
         "JAX"
       ],
@@ -956,6 +954,29 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": null,
+      "consenter_ids": [
+        7
+      ],
+      "created": 1792294070784,
+      "creator": "470323699870855168",
+      "draft_picks": [],
+      "drops": {
+        "11630": 7
+      },
+      "leg": 6,
+      "metadata": null,
+      "roster_ids": [
+        7
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1792294070784,
+      "transaction_id": "1417387700054503424",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "11783": 9
@@ -6983,9 +7004,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1416981413323919360",
+    "last_message_id": "1417387700171882496",
     "last_message_text_map": null,
-    "last_message_time": 1792197204479,
+    "last_message_time": 1792294070812,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7788,7 +7809,6 @@
       "players": [
         "11539",
         "11584",
-        "11630",
         "11637",
         "11646",
         "12474",
@@ -7807,8 +7827,7 @@
         "JAX"
       ],
       "reserve": [
-        "11630",
-        "5859"
+        "9756"
       ],
       "roster_id": 7,
       "settings": {
@@ -7831,11 +7850,11 @@
         "12522",
         "7588",
         "11584",
-        "4454",
+        "5859",
         "11646",
         "7600",
         "12474",
-        "11637",
+        "4454",
         "2747",
         "JAX"
       ],
