@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-10-21T14:41:25.200132+00:00"
+    "last_changed": "2026-10-21T18:58:16.689150+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -823,7 +823,7 @@
         "7553",
         "8154",
         "8205",
-        "IND"
+        "CLE"
       ],
       "players_points": {
         "11563": 0.0,
@@ -843,22 +843,22 @@
         "7553": 0.0,
         "8154": 0.0,
         "8205": 0.0,
-        "IND": 0.0
+        "CLE": 0.0
       },
       "points": 0.0,
       "roster_id": 11,
       "starters": [
         "11563",
         "6804",
-        "6806",
+        "5892",
         "12489",
         "13346",
         "12526",
         "7553",
-        "8154",
-        "11635",
+        "13298",
+        "6806",
         "4227",
-        "IND"
+        "CLE"
       ],
       "starters_points": [
         0.0,
@@ -948,6 +948,31 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "CLE": 11
+      },
+      "consenter_ids": [
+        11
+      ],
+      "created": 1792599593364,
+      "creator": "471426290298122240",
+      "draft_picks": [],
+      "drops": {
+        "IND": 11
+      },
+      "leg": 7,
+      "metadata": null,
+      "roster_ids": [
+        11
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1792599593364,
+      "transaction_id": "1418669154629660672",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "4950": 10
@@ -6653,9 +6678,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1418589795914903552",
+    "last_message_id": "1418669154793242624",
     "last_message_text_map": null,
-    "last_message_time": 1792580672771,
+    "last_message_time": 1792599593403,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7733,7 +7758,7 @@
         "7553",
         "8154",
         "8205",
-        "IND"
+        "CLE"
       ],
       "reserve": [
         "8205"
@@ -7757,15 +7782,15 @@
       "starters": [
         "11563",
         "6804",
-        "6806",
+        "5892",
         "12489",
         "13346",
         "12526",
         "7553",
-        "8154",
-        "11635",
+        "13298",
+        "6806",
         "4227",
-        "IND"
+        "CLE"
       ],
       "taxi": null
     },
