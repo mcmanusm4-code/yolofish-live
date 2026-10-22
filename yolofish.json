@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-10-22T10:33:27.224858+00:00"
+    "last_changed": "2026-10-22T15:37:51.005525+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -732,6 +732,7 @@
       "custom_points": null,
       "matchup_id": 3,
       "players": [
+        "10955",
         "11564",
         "11628",
         "11655",
@@ -752,6 +753,7 @@
         "HOU"
       ],
       "players_points": {
+        "10955": 0.0,
         "11564": 0.0,
         "11628": 0.0,
         "11655": 0.0,
@@ -946,6 +948,29 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "10955": 10
+      },
+      "consenter_ids": [
+        10
+      ],
+      "created": 1792677645880,
+      "creator": "470405149974589440",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 7,
+      "metadata": null,
+      "roster_ids": [
+        10
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1792677645880,
+      "transaction_id": "1418996530613866496",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": null,
       "consenter_ids": [
@@ -6757,9 +6782,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1418877273251028992",
+    "last_message_id": "1418996530731393024",
     "last_message_text_map": null,
-    "last_message_time": 1792649212709,
+    "last_message_time": 1792677645909,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7752,6 +7777,7 @@
       "owner_id": "470405149974589440",
       "player_map": null,
       "players": [
+        "10955",
         "11564",
         "11628",
         "11655",
