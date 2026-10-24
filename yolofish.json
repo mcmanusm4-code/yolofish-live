@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-10-24T19:42:31.466161+00:00"
+    "last_changed": "2026-10-24T21:57:28.569135+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -892,6 +892,7 @@
         "5846",
         "5870",
         "7002",
+        "7083",
         "7543",
         "8134",
         "9488",
@@ -912,6 +913,7 @@
         "5846": 0.0,
         "5870": 0.0,
         "7002": 0.0,
+        "7083": 0.0,
         "7543": 0.0,
         "8134": 0.0,
         "9488": 0.0,
@@ -923,7 +925,7 @@
       "roster_id": 12,
       "starters": [
         "4046",
-        "0",
+        "7083",
         "4199",
         "10235",
         "9488",
@@ -950,6 +952,29 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "7083": 12
+      },
+      "consenter_ids": [
+        12
+      ],
+      "created": 1792872699000,
+      "creator": "470648207311892480",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 7,
+      "metadata": null,
+      "roster_ids": [
+        12
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1792872699000,
+      "transaction_id": "1419814642695311360",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "4037": 3
@@ -6983,9 +7008,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1419698645275516928",
+    "last_message_id": "1419814642812731392",
     "last_message_text_map": null,
-    "last_message_time": 1792845043061,
+    "last_message_time": 1792872699028,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -8139,6 +8164,7 @@
         "5846",
         "5870",
         "7002",
+        "7083",
         "7543",
         "8134",
         "9488",
@@ -8168,7 +8194,7 @@
       },
       "starters": [
         "4046",
-        "0",
+        "7083",
         "4199",
         "10235",
         "9488",
