@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-10-26T11:17:08.971374+00:00"
+    "last_changed": "2026-10-26T17:27:46.934239+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -7248,9 +7248,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1420130197579083776",
+    "last_message_id": "1420476386736349184",
     "last_message_text_map": null,
-    "last_message_time": 1792947933148,
+    "last_message_time": 1793030471075,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7911,11 +7911,14 @@
       "keepers": null,
       "league_id": "1389708582278148096",
       "metadata": {
-        "p_nick_10229": "Dale Earnhardt ",
+        "p_nick_10229": "Dale Earnhardt",
         "p_nick_11533": "Best Player on my Team",
         "p_nick_11560": "2024 #1 pick (kinda garbage)",
         "p_nick_12508": "Future HOF",
         "p_nick_12522": "2025 #1 pick (garbage)",
+        "p_nick_7594": "Goat",
+        "p_nick_8130": "God",
+        "p_nick_9502": "WR with 1 Leg",
         "record": "WWLLLW",
         "streak": "1W"
       },
