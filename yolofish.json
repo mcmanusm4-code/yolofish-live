@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-10-29T02:46:26.419032+00:00"
+    "last_changed": "2026-10-29T08:58:39.117821+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -521,6 +521,7 @@
         "11624",
         "11637",
         "11646",
+        "11647",
         "12474",
         "13279",
         "2747",
@@ -531,7 +532,6 @@
         "8161",
         "9500",
         "9756",
-        "DAL",
         "JAX"
       ],
       "players_points": {
@@ -540,6 +540,7 @@
         "11624": 0.0,
         "11637": 0.0,
         "11646": 0.0,
+        "11647": 0.0,
         "12474": 0.0,
         "13279": 0.0,
         "2747": 0.0,
@@ -550,23 +551,22 @@
         "8161": 0.0,
         "9500": 0.0,
         "9756": 0.0,
-        "DAL": 0.0,
         "JAX": 0.0
       },
       "points": 0.0,
       "roster_id": 7,
       "starters": [
-        "11565",
         "8161",
-        "12474",
+        "6797",
+        "11647",
         "11584",
         "5859",
         "11646",
         "4993",
-        "11624",
-        "13279",
+        "11637",
+        "0",
         "2747",
-        "DAL"
+        "JAX"
       ],
       "starters_points": [
         0.0,
@@ -948,6 +948,56 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "11647": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "created": 1793244630857,
+      "creator": "470323699870855168",
+      "draft_picks": [],
+      "drops": {
+        "9511": 7
+      },
+      "leg": 8,
+      "metadata": null,
+      "roster_ids": [
+        7
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1793244630857,
+      "transaction_id": "1421374637970882560",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "9511": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "created": 1793244512914,
+      "creator": "470323699870855168",
+      "draft_picks": [],
+      "drops": {
+        "DAL": 7
+      },
+      "leg": 8,
+      "metadata": null,
+      "roster_ids": [
+        7
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1793244512914,
+      "transaction_id": "1421374143282081792",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "13305": 2
@@ -6657,9 +6707,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1421174609138466816",
+    "last_message_id": "1421374638109241344",
     "last_message_text_map": null,
-    "last_message_time": 1793196940267,
+    "last_message_time": 1793244630890,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -6776,7 +6826,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 1024,
       "daily_waivers_hour": 0,
-      "daily_waivers_last_ran": 28,
+      "daily_waivers_last_ran": 29,
       "disable_adds": 0,
       "disable_trades": 0,
       "divisions": 4,
@@ -7288,12 +7338,12 @@
       "roster_id": 4,
       "settings": {
         "division": 3,
-        "fpts": 1147,
-        "fpts_against": 911,
+        "fpts": 1146,
+        "fpts_against": 912,
         "fpts_against_decimal": 87,
         "fpts_decimal": 29,
         "losses": 2,
-        "ppts": 1283,
+        "ppts": 1282,
         "ppts_decimal": 68,
         "ties": 0,
         "total_moves": 0,
@@ -7484,6 +7534,7 @@
         "11624",
         "11637",
         "11646",
+        "11647",
         "12474",
         "13279",
         "2747",
@@ -7494,7 +7545,6 @@
         "8161",
         "9500",
         "9756",
-        "DAL",
         "JAX"
       ],
       "reserve": null,
@@ -7515,17 +7565,17 @@
         "wins": 1
       },
       "starters": [
-        "11565",
         "8161",
-        "12474",
+        "6797",
+        "11647",
         "11584",
         "5859",
         "11646",
         "4993",
-        "11624",
-        "13279",
+        "11637",
+        "0",
         "2747",
-        "DAL"
+        "JAX"
       ],
       "taxi": null
     },
@@ -7843,12 +7893,12 @@
       "roster_id": 12,
       "settings": {
         "division": 2,
-        "fpts": 935,
-        "fpts_against": 1070,
+        "fpts": 936,
+        "fpts_against": 1069,
         "fpts_against_decimal": 49,
         "fpts_decimal": 53,
         "losses": 4,
-        "ppts": 1005,
+        "ppts": 1006,
         "ppts_decimal": 85,
         "ties": 0,
         "total_moves": 0,
