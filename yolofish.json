@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-11-04T22:46:36.560926+00:00"
+    "last_changed": "2026-11-05T02:54:21.235045+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -82,6 +82,7 @@
       "custom_points": null,
       "matchup_id": 5,
       "players": [
+        "11539",
         "11566",
         "11581",
         "11583",
@@ -96,11 +97,11 @@
         "6904",
         "8167",
         "9224",
-        "9230",
         "9493",
         "DET"
       ],
       "players_points": {
+        "11539": 0.0,
         "11566": 0.0,
         "11581": 0.0,
         "11583": 0.0,
@@ -115,7 +116,6 @@
         "6904": 0.0,
         "8167": 0.0,
         "9224": 0.0,
-        "9230": 0.0,
         "9493": 0.0,
         "DET": 0.0
       },
@@ -123,15 +123,15 @@
       "roster_id": 1,
       "starters": [
         "11566",
-        "9230",
+        "0",
         "4866",
         "9224",
         "9493",
         "8167",
-        "0",
+        "3214",
         "1479",
         "6794",
-        "0",
+        "11539",
         "DET"
       ],
       "starters_points": [
@@ -944,6 +944,52 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": null,
+      "consenter_ids": [
+        1
+      ],
+      "created": 1793840581858,
+      "creator": "460117065320099840",
+      "draft_picks": [],
+      "drops": {
+        "9230": 1
+      },
+      "leg": 9,
+      "metadata": null,
+      "roster_ids": [
+        1
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1793840581858,
+      "transaction_id": "1423874237638139904",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "11539": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "created": 1793840555529,
+      "creator": "460117065320099840",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 9,
+      "metadata": null,
+      "roster_ids": [
+        1
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1793840555529,
+      "transaction_id": "1423874127206387712",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": null,
       "consenter_ids": [
@@ -6772,9 +6818,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1423815009569423360",
+    "last_message_id": "1423874237751410688",
     "last_message_text_map": null,
-    "last_message_time": 1793826460786,
+    "last_message_time": 1793840581885,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7218,6 +7264,7 @@
       "owner_id": "460117065320099840",
       "player_map": null,
       "players": [
+        "11539",
         "11566",
         "11581",
         "11583",
@@ -7232,7 +7279,6 @@
         "6904",
         "8167",
         "9224",
-        "9230",
         "9493",
         "DET"
       ],
@@ -7258,15 +7304,15 @@
       },
       "starters": [
         "11566",
-        "9230",
+        "0",
         "4866",
         "9224",
         "9493",
         "8167",
-        "0",
+        "3214",
         "1479",
         "6794",
-        "0",
+        "11539",
         "DET"
       ],
       "taxi": null
