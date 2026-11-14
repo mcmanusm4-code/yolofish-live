@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-11-14T19:55:11.195340+00:00"
+    "last_changed": "2026-11-14T23:46:22.171144+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -880,7 +880,7 @@
       "players": [
         "11783",
         "12185",
-        "12487",
+        "12540",
         "12634",
         "13301",
         "13337",
@@ -901,7 +901,7 @@
       "players_points": {
         "11783": 0.0,
         "12185": 0.0,
-        "12487": 0.0,
+        "12540": 0.0,
         "12634": 0.0,
         "13301": 11.2,
         "13337": 0.0,
@@ -929,7 +929,7 @@
         "9488",
         "9501",
         "2505",
-        "12634",
+        "7543",
         "5846",
         "12185",
         "HOU"
@@ -950,6 +950,52 @@
     }
   ],
   "current_week_transactions": [
+    {
+      "adds": {
+        "12540": 12
+      },
+      "consenter_ids": [
+        12
+      ],
+      "created": 1794691027724,
+      "creator": "470648207311892480",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 10,
+      "metadata": null,
+      "roster_ids": [
+        12
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1794691027724,
+      "transaction_id": "1427441266135666688",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": null,
+      "consenter_ids": [
+        12
+      ],
+      "created": 1794690997228,
+      "creator": "470648207311892480",
+      "draft_picks": [],
+      "drops": {
+        "12487": 12
+      },
+      "leg": 10,
+      "metadata": null,
+      "roster_ids": [
+        12
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1794690997228,
+      "transaction_id": "1427441138226171904",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "5995": 8
@@ -6891,9 +6937,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1427375385699426304",
+    "last_message_id": "1427441266257301504",
     "last_message_text_map": null,
-    "last_message_time": 1794675320605,
+    "last_message_time": 1794691027753,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -8155,7 +8201,7 @@
       "players": [
         "11783",
         "12185",
-        "12487",
+        "12540",
         "12634",
         "13301",
         "13337",
@@ -8175,7 +8221,7 @@
       ],
       "reserve": [
         "4881",
-        "7543"
+        "5844"
       ],
       "roster_id": 12,
       "settings": {
@@ -8201,7 +8247,7 @@
         "9488",
         "9501",
         "2505",
-        "12634",
+        "7543",
         "5846",
         "12185",
         "HOU"
