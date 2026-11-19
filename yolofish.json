@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-11-19T08:41:03.480468+00:00"
+    "last_changed": "2026-11-19T17:42:41.296507+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -238,15 +238,15 @@
         "13269",
         "421",
         "4984",
+        "5119",
         "5947",
         "5967",
         "6083",
-        "6130",
         "7547",
         "8132",
         "8138",
         "9997",
-        "NYG"
+        "CIN"
       ],
       "players_points": {
         "10219": 0.0,
@@ -257,30 +257,30 @@
         "13269": 0.0,
         "421": 0.0,
         "4984": 0.0,
+        "5119": 0.0,
         "5947": 0.0,
         "5967": 0.0,
         "6083": 0.0,
-        "6130": 0.0,
         "7547": 0.0,
         "8132": 0.0,
         "8138": 0.0,
         "9997": 0.0,
-        "NYG": 0.0
+        "CIN": 0.0
       },
       "points": 0.0,
       "roster_id": 3,
       "starters": [
         "4984",
-        "421",
+        "13269",
         "5967",
         "8138",
         "7547",
         "9997",
         "10859",
         "12526",
-        "12512",
-        "6083",
-        "NYG"
+        "12527",
+        "5119",
+        "CIN"
       ],
       "starters_points": [
         0.0,
@@ -536,7 +536,7 @@
         "8161",
         "9500",
         "9756",
-        "NE"
+        "TB"
       ],
       "players_points": {
         "10218": 0.0,
@@ -557,7 +557,7 @@
         "8161": 0.0,
         "9500": 0.0,
         "9756": 0.0,
-        "NE": 0.0
+        "TB": 0.0
       },
       "points": 0.0,
       "roster_id": 7,
@@ -572,7 +572,7 @@
         "11646",
         "13279",
         "2020",
-        "NE"
+        "TB"
       ],
       "starters_points": [
         0.0,
@@ -950,6 +950,56 @@
   "current_week_transactions": [
     {
       "adds": {
+        "5119": 3
+      },
+      "consenter_ids": [
+        3
+      ],
+      "created": 1795090414176,
+      "creator": "872279829003878400",
+      "draft_picks": [],
+      "drops": {
+        "6130": 3
+      },
+      "leg": 11,
+      "metadata": null,
+      "roster_ids": [
+        3
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1795090414176,
+      "transaction_id": "1429116414324658176",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "CIN": 3
+      },
+      "consenter_ids": [
+        3
+      ],
+      "created": 1795090125118,
+      "creator": "872279829003878400",
+      "draft_picks": [],
+      "drops": {
+        "NYG": 3
+      },
+      "leg": 11,
+      "metadata": null,
+      "roster_ids": [
+        3
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1795090125118,
+      "transaction_id": "1429115201927512064",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
         "13075": 12
       },
       "consenter_ids": [
@@ -1205,6 +1255,36 @@
       "status_updated": 1795019369081,
       "transaction_id": "1428818429602717696",
       "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "TB": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "created": 1795009153656,
+      "creator": "470323699870855168",
+      "draft_picks": [],
+      "drops": {
+        "NE": 7
+      },
+      "leg": 11,
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "roster_ids": [
+        7
+      ],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 0
+      },
+      "status": "complete",
+      "status_updated": 1795085161670,
+      "transaction_id": "1428775583000571904",
+      "type": "waiver",
       "waiver_budget": []
     },
     {
@@ -6845,9 +6925,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1428927879160283136",
+    "last_message_id": "1429116414463057920",
     "last_message_text_map": null,
-    "last_message_time": 1795045463889,
+    "last_message_time": 1795090414208,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7454,7 +7534,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 10,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 6
       },
       "starters": [
@@ -7495,15 +7575,15 @@
         "13269",
         "421",
         "4984",
+        "5119",
         "5947",
         "5967",
         "6083",
-        "6130",
         "7547",
         "8132",
         "8138",
         "9997",
-        "NYG"
+        "CIN"
       ],
       "reserve": null,
       "roster_id": 3,
@@ -7524,16 +7604,16 @@
       },
       "starters": [
         "4984",
-        "421",
+        "13269",
         "5967",
         "8138",
         "7547",
         "9997",
         "10859",
         "12526",
-        "12512",
-        "6083",
-        "NYG"
+        "12527",
+        "5119",
+        "CIN"
       ],
       "taxi": null
     },
@@ -7783,7 +7863,7 @@
         "8161",
         "9500",
         "9756",
-        "NE"
+        "TB"
       ],
       "reserve": [
         "5859",
@@ -7802,7 +7882,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 130,
-        "waiver_position": 8,
+        "waiver_position": 12,
         "wins": 1
       },
       "starters": [
@@ -7816,7 +7896,7 @@
         "11646",
         "13279",
         "2020",
-        "NE"
+        "TB"
       ],
       "taxi": null
     },
@@ -7866,7 +7946,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 58,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 9
       },
       "starters": [
@@ -7995,7 +8075,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 98,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 6
       },
       "starters": [
@@ -8142,7 +8222,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 131,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 5
       },
       "starters": [
