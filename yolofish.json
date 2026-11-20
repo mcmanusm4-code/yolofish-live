@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_changed": "2026-11-20T15:38:28.559606+00:00"
+    "last_changed": "2026-11-20T22:21:42.364103+00:00"
   },
   "current_draft": {
     "created": 1785694854853,
@@ -423,7 +423,7 @@
         "10229",
         "11620",
         "8130",
-        "13276",
+        "13285",
         "12540",
         "11533",
         "JAX"
@@ -6971,9 +6971,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1429309535901720577",
+    "last_message_id": "1429621110080536576",
     "last_message_text_map": null,
-    "last_message_time": 1795136457948,
+    "last_message_time": 1795210743021,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389708582278148096",
@@ -7740,6 +7740,7 @@
         "p_nick_7594": "Goat",
         "p_nick_8130": "God",
         "p_nick_9502": "WR with 1 Leg",
+        "p_nick_JAX": "Jagging Off",
         "record": "WWLLLWLWLW",
         "streak": "1W"
       },
@@ -7794,7 +7795,7 @@
         "10229",
         "11620",
         "8130",
-        "13276",
+        "13285",
         "12540",
         "11533",
         "JAX"
